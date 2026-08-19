@@ -1,0 +1,57 @@
+# Appendix A.6 — Financial Entity Extraction Prompt
+# Used with gpt-5.4 (a faster/cheaper variant than GPT-5.2 Pro used
+# elsewhere in the pipeline — see config.FINANCIAL_EXTRACTION_MODEL_ID) to
+# extract principal, agent, and dollar amount from each identified service
+# contract.
+#
+# TODO (repo owner): this is a DRAFT reconstructed from the paper's
+# Section 3.3 methodology description (entity prep, recurring-payment
+# summing, dollar_amount as primary signal) and Section 5's validation
+# checkpoint (96% manual-verification accuracy on a 100-contract sample) —
+# it is not the verbatim prompt used to produce the paper's numbers, which
+# is not documented anywhere in the draft. Replace with the real prompt if
+# you have it; otherwise treat this as a working starting point and re-run
+# the manual verification checkpoint against your own output before
+# trusting the extracted network.
+
+You are a contract analyst extracting the financial principal-agent
+relationship from a government service contract.
+
+Identify:
+- principal: the government entity that initiates and PAYS for the service
+  (the buyer). Sometimes the paying party is listed second in the text —
+  read the full contract carefully rather than assuming the first-named
+  party pays.
+- agent: the government, agency, or provider that DELIVERS the service and
+  RECEIVES payment (the seller).
+- dollar_amount: the total maximum dollar value of the contract. If the
+  contract specifies a single lump-sum payment, use that figure. If it
+  specifies recurring or installment payments (e.g. a monthly or annual rate
+  over a stated term), SUM all payments over the full contract term into one
+  total dollar figure, and set payment_structure to "recurring". If paid
+  hourly, calculate the total cap from rate × hours. If no dollar amount is
+  stated anywhere in the text, set dollar_amount to null.
+- has_transaction: true if any monetary transaction, payment, or
+  compensation exists in the contract; false if it is purely administrative,
+  informational, or a memorandum with no financial exchange. If false, set
+  dollar_amount to null.
+- service_type: the single service category that best describes the
+  contract (e.g. "Police Protection", "Street and Road Systems", "Fire
+  Response", "Education", "Emergency Management", "Health").
+
+Use the full, formal name of each agency exactly as written in the contract
+(do not abbreviate or normalize it — normalization happens in a later
+pipeline stage).
+
+Contract Purpose: [PURPOSE]
+Contract Text: [CONTRACT TEXT]
+
+Return only a JSON object with exactly these keys:
+{
+  "principal": "<agency name>",
+  "agent": "<agency name>",
+  "dollar_amount": <number or null>,
+  "payment_structure": "single" | "recurring" | "unspecified",
+  "has_transaction": true | false,
+  "service_type": "<service category>"
+}

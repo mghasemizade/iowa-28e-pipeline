@@ -1,0 +1,46 @@
+# Appendix A.4 — Chain-of-Thought Classification Prompt Template
+# Shown here in 3-shot form. 0-shot drops the [EXAMPLES] line under each
+# category entirely (no demonstrations); 1-shot keeps a single numbered
+# "Example 1:" line instead of three.
+
+
+You are a contract assistant performing a classification task. Please perform
+chain-of-thought reasoning to classify the summary of the contract below.
+
+Step 1 - Analyze the key features from the contract's summary text.
+Contract Purpose: [PURPOSE]
+Contract Text: [CONTRACT SUMMARY]
+
+Step 2 - Focus on the most relevant features to determine the nature of the
+agreement (e.g., is it about a partnership, providing external services,
+creating a new shared entity, sharing resources, etc.?).
+
+Step 3 - Match these features to the single best category definition. Use
+the provided examples to understand each category.
+
+Category Definitions & Examples:
+
+- Joint Operations: Organizations work together to jointly produce or deliver
+  services.
+[EXAMPLES]
+
+- New Joint Entities: Organizations collaborate to create a new, legally
+  distinct shared entity.
+[EXAMPLES]
+
+- Resource Sharing: Organizations share information, personnel, or physical
+  equipment.
+[EXAMPLES]
+
+- Service Contract: One entity hires an outside public or private provider
+  for specific services.
+[EXAMPLES]
+
+Step 4 - Based on your analysis, return only the name of the category that
+best fits.
+
+Output format:
+Return a single JSON object with one key, "Target", and the category name as
+the value. e.g., {"Target": "Service Contract"}
+
+Only give me the JSON object as the final answer.

@@ -1,0 +1,3660 @@
+{
+  "185th Iowa Air National Guard Fire Department": null,
+  "Iowa Department of Corrections": null,
+  "1st Judicial District Department of Correctional Services": null,
+  "Black Hawk Consolidated Public Safety Communications Center": null,
+  "Black Hawk County": {
+    "lat": 42.4607526,
+    "lon": -92.3030235
+  },
+  "Four Oaks, Inc.": null,
+  "Scott County": {
+    "lat": 41.6251843,
+    "lon": -90.6164201
+  },
+  "ADLM Counties Environmental Public Health Agency": null,
+  "Iowa Department of Inspections and Appeals": null,
+  "ADLM Facilities Management Systems Commission": null,
+  "Iowa Department of Natural Resources": {
+    "lat": 41.5920814,
+    "lon": -93.6072518
+  },
+  "ALIASU Members": null,
+  "Iowa Northland Regional Council of Governments": null,
+  "Abraham Lincoln High School": {
+    "lat": 41.2583621,
+    "lon": -95.8201999
+  },
+  "Iowa Western Community College": {
+    "lat": 41.2737404,
+    "lon": -95.8003426
+  },
+  "Ackley-Geneva-Wellsburg-Steamboat Rock Community Schools": null,
+  "Iowa Valley Community College District": null,
+  "Adair City": {
+    "lat": 41.5005428,
+    "lon": -94.6419196
+  },
+  "Guthrie County": {
+    "lat": 41.6721976,
+    "lon": -94.4985983
+  },
+  "Adair County": {
+    "lat": 41.3127814,
+    "lon": -94.4953303
+  },
+  "Adams County": {
+    "lat": 41.0161621,
+    "lon": -94.6850186
+  },
+  "Cass County": {
+    "lat": 41.3122834,
+    "lon": -94.9215151
+  },
+  "Central Iowa Juvenile Detention Center": {
+    "lat": 42.3564923,
+    "lon": -93.1131608
+  },
+  "Council Bluffs City": {
+    "lat": 41.2580539,
+    "lon": -95.8508452
+  },
+  "Iowa State Association of Counties": null,
+  "Southern Iowa Rural Water Association": null,
+  "Stuart City": {
+    "lat": 41.4969303,
+    "lon": -94.3274468
+  },
+  "Clarke County": {
+    "lat": 41.0152092,
+    "lon": -93.7842976
+  },
+  "Corning City": {
+    "lat": 40.9878505,
+    "lon": -94.7355947
+  },
+  "Eldon City": {
+    "lat": 40.9188371,
+    "lon": -92.2227701
+  },
+  "Floyd-Chickasaw-Mitchell Counties": null,
+  "Iowa City": {
+    "lat": 41.6612561,
+    "lon": -91.5299106
+  },
+  "Massena City": {
+    "lat": 41.2519383,
+    "lon": -94.7685966
+  },
+  "Oskaloosa City": {
+    "lat": 41.2937086,
+    "lon": -92.6448754
+  },
+  "Ringgold County": {
+    "lat": 40.7399875,
+    "lon": -94.2547473
+  },
+  "Adams Township (Dallas County)": {
+    "lat": 41.5509828,
+    "lon": -94.0698102
+  },
+  "Panther Creek Cemetery Association": null,
+  "Adel City": {
+    "lat": 41.6151675,
+    "lon": -94.0196068
+  },
+  "Dallas Center City": {
+    "lat": 41.6840301,
+    "lon": -93.9628234
+  },
+  "Dallas County": {
+    "lat": 41.6744179,
+    "lon": -94.0394437
+  },
+  "Iowa Association of Municipal Utilities": {
+    "lat": 41.686693,
+    "lon": -93.5925603
+  },
+  "Adel-DeSoto-Minburn Community School District": null,
+  "Des Moines Independent Community School District": null,
+  "Advanced Medical Transport": null,
+  "Agency City": {
+    "lat": 40.9947928,
+    "lon": -92.3063751
+  },
+  "State Center City": {
+    "lat": 42.0108906,
+    "lon": -93.1216439
+  },
+  "Ainsworth City": null,
+  "Washington County": {
+    "lat": 41.3160082,
+    "lon": -91.7340327
+  },
+  "Akron City": null,
+  "Plymouth County": {
+    "lat": 42.7369124,
+    "lon": -96.2213607
+  },
+  "Albert City": {
+    "lat": 42.78172,
+    "lon": -94.9483487
+  },
+  "Buena Vista County": {
+    "lat": 42.7445814,
+    "lon": -95.1127525
+  },
+  "Albia City": {
+    "lat": 41.0357612,
+    "lon": -92.8039687
+  },
+  "Chariton City": {
+    "lat": 41.0140071,
+    "lon": -93.30854
+  },
+  "Monroe County": {
+    "lat": 41.0142519,
+    "lon": -92.8792544
+  },
+  "Albion City": null,
+  "Marshall County": {
+    "lat": 42.0378125,
+    "lon": -92.9915704
+  },
+  "New Liberty City": {
+    "lat": 41.7189034,
+    "lon": -90.8800514
+  },
+  "Alburnett City": {
+    "lat": 42.1483477,
+    "lon": -91.6188136
+  },
+  "Linn County": {
+    "lat": 42.0631825,
+    "lon": -91.6037932
+  },
+  "Alden City": {
+    "lat": 42.5197015,
+    "lon": -93.3746499
+  },
+  "Hardin County": {
+    "lat": 42.3840463,
+    "lon": -93.2293918
+  },
+  "Alden Community School District": null,
+  "Algona City": {
+    "lat": 43.0702441,
+    "lon": -94.238297
+  },
+  "Cerro Gordo County": {
+    "lat": 43.0742443,
+    "lon": -93.2548746
+  },
+  "Allamakee Community School District": null,
+  "Waukon City": {
+    "lat": 43.2553304,
+    "lon": -91.4764828
+  },
+  "Allamakee County": {
+    "lat": 43.2961731,
+    "lon": -91.3961856
+  },
+  "Delaware County Conference Board/Geographic Information System": null,
+  "Northeast Iowa Community College": {
+    "lat": 42.4998277,
+    "lon": -90.6662717
+  },
+  "Upper Explorerland Regional Planning Commission": null,
+  "Alleman City": {
+    "lat": 41.8164206,
+    "lon": -93.6104191
+  },
+  "Ankeny City": {
+    "lat": 41.7325953,
+    "lon": -93.6055361
+  },
+  "Des Moines City": {
+    "lat": 42.455542,
+    "lon": -93.8207726
+  },
+  "Polk County": {
+    "lat": 41.6765808,
+    "lon": -93.5921448
+  },
+  "Allen Township (Polk County)": {
+    "lat": 41.5598773,
+    "lon": -93.7925076
+  },
+  "Pisgah City": {
+    "lat": 41.8313769,
+    "lon": -95.9255655
+  },
+  "Allison City": {
+    "lat": 42.7541437,
+    "lon": -92.7949167
+  },
+  "Waterloo City": {
+    "lat": 42.4989181,
+    "lon": -92.3321273
+  },
+  "Alta City": {
+    "lat": 42.667026,
+    "lon": -95.3026517
+  },
+  "Chickasaw County": {
+    "lat": 43.05994,
+    "lon": -92.316679
+  },
+  "Alton City": null,
+  "Sioux County": {
+    "lat": 43.0574079,
+    "lon": -96.1602368
+  },
+  "Altoona City": {
+    "lat": 41.6407281,
+    "lon": -93.4761383
+  },
+  "Bravo Greater Des Moines, Inc.": null,
+  "Des Moines Area Regional Transit Authority": null,
+  "American Forestry Association": null,
+  "Ames City": {
+    "lat": 42.0263603,
+    "lon": -93.6179857
+  },
+  "Iowa Homeland Security Emergency Management": null,
+  "MSA Professional Services": null,
+  "Metropolitan Incident Command Radio Network": null,
+  "Shoff Consulting Engineers, LC": null,
+  "Story County": {
+    "lat": 42.0161612,
+    "lon": -93.489194
+  },
+  "StoryComm": null,
+  "Ames Community School District": {
+    "lat": 42.0464109,
+    "lon": -93.6360936
+  },
+  "Des Moines Area Community College (DMACC)": null,
+  "Iowa State University": {
+    "lat": 42.0279608,
+    "lon": -93.6447375
+  },
+  "Juvenile Court Services (1st Judicial District)": null,
+  "Anamosa City": {
+    "lat": 42.1040551,
+    "lon": -91.2767932
+  },
+  "Foundation 2, Inc.": null,
+  "Jones County": {
+    "lat": 42.1081969,
+    "lon": -91.1427196
+  },
+  "Monticello City": {
+    "lat": 42.2425199,
+    "lon": -91.1843557
+  },
+  "Anamosa Rural Fire Truck Association": null,
+  "Andover City": null,
+  "Eastern Iowa Regional Utility Service Systems": null,
+  "Animal Rescue League of Iowa": {
+    "lat": 41.6593852,
+    "lon": -93.5826468
+  },
+  "Anita City": {
+    "lat": 41.445265,
+    "lon": -94.7647015
+  },
+  "Ankeny Christian Academy": {
+    "lat": 41.73253,
+    "lon": -93.6227034
+  },
+  "Deere and Company": null,
+  "Iowa Department of Transportation": {
+    "lat": 42.0197469,
+    "lon": -93.622168
+  },
+  "Northstar Power, LLC": null,
+  "Ankeny Community School District": null,
+  "Anthon City": {
+    "lat": 42.3884312,
+    "lon": -95.8649642
+  },
+  "Anthon Community Ambulance Service, Inc": null,
+  "Woodbury County": {
+    "lat": 42.3775361,
+    "lon": -96.0607187
+  },
+  "Aplington City": {
+    "lat": 42.5814903,
+    "lon": -92.8848073
+  },
+  "Parkersburg Community School District": null,
+  "Aplington-Parkersburg Community School District": null,
+  "Dike-New Hartford Community Schools": null,
+  "Iowa School Cash Anticipation Program": null,
+  "Appanoose County": {
+    "lat": 40.7455904,
+    "lon": -92.8649061
+  },
+  "Heart of Iowa Regional Transit Agency": null,
+  "Independent Case Management, Inc.": null,
+  "Iowa County": {
+    "lat": 41.683983,
+    "lon": -92.0612268
+  },
+  "Plano City": null,
+  "Rathbun Area Solid Waste Management Commission": null,
+  "South Central Behavioral Health Region": null,
+  "Unionville City": null,
+  "Appanoose County Coalition for the Arts": null,
+  "Iowa Member Commission": null,
+  "Appanoose, Davis, Lucas, and Monroe Counties": null,
+  "Southeast Iowa Contracting Consortium": null,
+  "Wapello County": {
+    "lat": 41.0137597,
+    "lon": -92.4140217
+  },
+  "Applicant": null,
+  "Ar-We-Va Community Schools": null,
+  "Area 16 School Districts": null,
+  "Iowa Association of Educational Purchasing": null,
+  "Iowa Public Agency Investment Trust": null,
+  "Kirkwood Community College": {
+    "lat": 41.9064268,
+    "lon": -91.6496843
+  },
+  "Area Ambulance Authority": null,
+  "Winneshiek Medical Center": null,
+  "Area XV Multi-County Housing Agency": null,
+  "Aredale City": null,
+  "Butler County": {
+    "lat": 42.7336512,
+    "lon": -92.7819493
+  },
+  "Arlington City": {
+    "lat": 41.6574594,
+    "lon": -91.4690389
+  },
+  "Fayette County": {
+    "lat": 42.8420766,
+    "lon": -91.850265
+  },
+  "Armstrong City": {
+    "lat": 43.3978268,
+    "lon": -94.4809833
+  },
+  "Iowa City Community School District": null,
+  "Arnolds Park City": null,
+  "Okoboji City": null,
+  "Asbury City": {
+    "lat": 42.5122691,
+    "lon": -90.7557941
+  },
+  "Asbury Community Fire Department": {
+    "lat": 42.5087008,
+    "lon": -90.7557094
+  },
+  "Dubuque Soil and Water Conservation District": null,
+  "Asset Finders": null,
+  "Silicon Prairie Web Solutions, LLC": null,
+  "Atlantic City": {
+    "lat": 41.4045495,
+    "lon": -95.0137641
+  },
+  "Atlantic Community School District": null,
+  "Audubon Community School District": null,
+  "Local Government Services": null,
+  "Audubon County": {
+    "lat": 41.670205,
+    "lon": -94.9106526
+  },
+  "Audubon City": {
+    "lat": 41.7220726,
+    "lon": -94.9314747
+  },
+  "Brayton City": null,
+  "Carroll County": {
+    "lat": 42.0193628,
+    "lon": -94.860335
+  },
+  "Electronic Transactions Clearinghouse": null,
+  "Greene County": {
+    "lat": 42.0182893,
+    "lon": -94.4005864
+  },
+  "Heart of Iowa Community Services": null,
+  "Iowa Department of Economic Development": null,
+  "Mental Health Services Coordinator": null,
+  "Avoca City": {
+    "lat": 43.1899231,
+    "lon": -90.3185725
+  },
+  "Pottawattamie County": {
+    "lat": 41.3115686,
+    "lon": -95.5331269
+  },
+  "Ayrshire City": {
+    "lat": 43.0391424,
+    "lon": -94.8326695
+  },
+  "Palo Alto County": {
+    "lat": 43.0762829,
+    "lon": -94.6625047
+  },
+  "Bagley City": {
+    "lat": 41.846098,
+    "lon": -94.4299694
+  },
+  "Ballard Community School District": null,
+  "Huxley City": {
+    "lat": 41.8983476,
+    "lon": -93.6072227
+  },
+  "Ballet Des Moines": null,
+  "West Des Moines Community School District": null,
+  "Balltown City": null,
+  "Dubuque County": {
+    "lat": 42.4692988,
+    "lon": -90.8742047
+  },
+  "Bankston City": null,
+  "Epworth Community Fire Department": null,
+  "Barnes City": {
+    "lat": 41.5082306,
+    "lon": -92.468393
+  },
+  "Mahaska County": {
+    "lat": 41.314939,
+    "lon": -92.6489935
+  },
+  "Montezuma City": {
+    "lat": 41.5841675,
+    "lon": -92.525187
+  },
+  "Bassett City": null,
+  "Baxter City": {
+    "lat": 41.8278347,
+    "lon": -93.1490917
+  },
+  "West Malaka Benefited Fire District": null,
+  "Baxter Community School District": null,
+  "Beacon City": {
+    "lat": 43.1558033,
+    "lon": -93.2030631
+  },
+  "Beaman City": null,
+  "Grundy County": {
+    "lat": 42.4132701,
+    "lon": -92.7808666
+  },
+  "Bear Grove Township (Cass County)": {
+    "lat": 41.285264,
+    "lon": -94.9841072
+  },
+  "Cumberland City": {
+    "lat": 41.2722498,
+    "lon": -94.8702623
+  },
+  "Beaver City": {
+    "lat": 43.4541045,
+    "lon": -92.3244655
+  },
+  "Boone County": {
+    "lat": 42.0171798,
+    "lon": -93.9254114
+  },
+  "Parkersburg City": {
+    "lat": 42.5734462,
+    "lon": -92.7922283
+  },
+  "Bedford City": {
+    "lat": 40.6681498,
+    "lon": -94.720964
+  },
+  "Taylor County": {
+    "lat": 40.738254,
+    "lon": -94.6847413
+  },
+  "Bel-Net Network Services, Inc.": null,
+  "Clive City": {
+    "lat": 41.6095541,
+    "lon": -93.7759521
+  },
+  "Belmond City": {
+    "lat": 42.8466,
+    "lon": -93.6139409
+  },
+  "Wright County": {
+    "lat": 42.7404452,
+    "lon": -93.7325849
+  },
+  "Benefited Fire District #1": null,
+  "Walcott City": null,
+  "Benton County": {
+    "lat": 42.0599693,
+    "lon": -92.0776319
+  },
+  "East Central Region": null,
+  "Johnson County": {
+    "lat": 41.6861834,
+    "lon": -91.6061124
+  },
+  "Urbana City": null,
+  "Vinton City": null,
+  "Berkley City": null,
+  "Bernard City": {
+    "lat": 42.3132452,
+    "lon": -90.8300502
+  },
+  "Bernard Rescue Unit": null,
+  "Green Hills Area Education Agency": null,
+  "Bertram City": {
+    "lat": 41.9465113,
+    "lon": -91.5389472
+  },
+  "Bettendorf City": {
+    "lat": 41.5249132,
+    "lon": -90.5095572
+  },
+  "Bettendorf Community School District": null,
+  "Davenport City": {
+    "lat": 41.523852,
+    "lon": -90.5766541
+  },
+  "Rock Island County, Illinois": null,
+  "Mississippi Bend Area Education Agency": null,
+  "Big Creek Township (Black Hawk County)": null,
+  "Cedar Falls, Evansdale, LaPorte City, and Waterloo": null,
+  "Birmingham City": {
+    "lat": 40.8775208,
+    "lon": -91.9453858
+  },
+  "Van Buren County": {
+    "lat": 40.749202,
+    "lon": -91.9689529
+  },
+  "Bremer County": {
+    "lat": 42.7669649,
+    "lon": -92.3099856
+  },
+  "Buchanan County": {
+    "lat": 42.4634928,
+    "lon": -91.8449198
+  },
+  "Iowa Judicial Branch": {
+    "lat": 41.5883588,
+    "lon": -93.601316
+  },
+  "National Cattle Congress": null,
+  "Blackbird Bend Corporation": null,
+  "Onawa City": null,
+  "Blakesburg City": null,
+  "Blakesburg Historic Preservation Society": null,
+  "Blanchard City": null,
+  "Page County": {
+    "lat": 40.736337,
+    "lon": -95.1602396
+  },
+  "Blank Park Zoo Foundation": null,
+  "Bloomfield City": {
+    "lat": 40.7525767,
+    "lon": -92.4048376
+  },
+  "Mutchler Community Center Commission": null,
+  "Bobcat Capital Support Foundation": null,
+  "Iowa School for the Deaf": {
+    "lat": 41.2248298,
+    "lon": -95.8202653
+  },
+  "Bonaparte City": {
+    "lat": 40.697945,
+    "lon": -91.8055291
+  },
+  "Bondurant City": {
+    "lat": 41.7033254,
+    "lon": -93.461573
+  },
+  "Bondurant-Farrar Community School District": null,
+  "Heartland Area Education Agency 11": null,
+  "Boomer Township (Pottawattamie County)": {
+    "lat": 41.4629694,
+    "lon": -95.7838358
+  },
+  "Underwood City": null,
+  "Boone City": {
+    "lat": 42.474774,
+    "lon": -93.8274873
+  },
+  "Iowa Public Employers Pool": null,
+  "Boone Community School District": null,
+  "Central Iowa Community Services": null,
+  "Fraser City": null,
+  "Iowa Department of Human Services": null,
+  "Pilot Mound City": null,
+  "Boxholm City": null,
+  "Boy Scout Troop 94": null,
+  "North Central Correctional Facility": {
+    "lat": 42.3924095,
+    "lon": -94.6050273
+  },
+  "Boyden City": null,
+  "Boyer Valley Community School District": null,
+  "Boys and Girls Home Residential Treatment Center": null,
+  "Braddyville City": {
+    "lat": 40.5783245,
+    "lon": -95.0302006
+  },
+  "Bradgate City": {
+    "lat": 42.7263715,
+    "lon": -94.4390059
+  },
+  "Fire Training Consultants, LLC": null,
+  "Brandon City": {
+    "lat": 42.317155,
+    "lon": -92.0041234
+  },
+  "Breda City": {
+    "lat": 42.1822064,
+    "lon": -94.9774893
+  },
+  "Tripoli City": {
+    "lat": 42.8070764,
+    "lon": -92.257808
+  },
+  "Bridgewater City": {
+    "lat": 41.2491223,
+    "lon": -94.6681674
+  },
+  "Brighton City": {
+    "lat": 41.1750172,
+    "lon": -91.8215594
+  },
+  "Britt City": null,
+  "Britt Industrial Development Corporation": null,
+  "Hancock County": {
+    "lat": 43.0847702,
+    "lon": -93.7363674
+  },
+  "Ryan Hanig Contracting, Inc.": null,
+  "Broadlawns Medical Center": {
+    "lat": 41.6165472,
+    "lon": -93.6401269
+  },
+  "Bronson City": {
+    "lat": 42.4094367,
+    "lon": -96.2119684
+  },
+  "Brookfield Township (Clinton County)": null,
+  "Kiron Fire Department, Inc.": null,
+  "Brooklyn City": null,
+  "Poweshiek County": {
+    "lat": 41.6816512,
+    "lon": -92.5435034
+  },
+  "Brooklyn-Guernsey-Malcom Community School District": null,
+  "Aurora City": null,
+  "Delaware County": {
+    "lat": 42.4663805,
+    "lon": -91.3621282
+  },
+  "Masonville Fire Department": null,
+  "Stanley City": {
+    "lat": 41.6585054,
+    "lon": -91.5388537
+  },
+  "Walker City": {
+    "lat": 42.2874882,
+    "lon": -91.7824963
+  },
+  "Buckeye City": {
+    "lat": 42.4174609,
+    "lon": -93.3748184
+  },
+  "Lake Improvement Commission": null,
+  "Rembrandt City": {
+    "lat": 42.8255067,
+    "lon": -95.1663026
+  },
+  "Rolling Hills Community Services": {
+    "lat": 42.539706,
+    "lon": -96.380737
+  },
+  "Sac County": {
+    "lat": 42.3797854,
+    "lon": -95.0825306
+  },
+  "Sioux City": {
+    "lat": 42.4966815,
+    "lon": -96.4058782
+  },
+  "Storm Lake City": {
+    "lat": 42.6480567,
+    "lon": -95.1958214
+  },
+  "Buena Vista County Soil and Water Conservation District": null,
+  "Buffalo Center City": {
+    "lat": 42.4457174,
+    "lon": -96.3410864
+  },
+  "Buffalo City": {
+    "lat": 41.4582576,
+    "lon": -90.7162776
+  },
+  "Winnebago County": {
+    "lat": 43.3747879,
+    "lon": -93.7316088
+  },
+  "Burlington City": {
+    "lat": 41.6579272,
+    "lon": -91.5299871
+  },
+  "Burlington Junior League Baseball, Inc.": null,
+  "Des Moines County": {
+    "lat": 40.9195431,
+    "lon": -91.1971044
+  },
+  "Health Care Access Network": null,
+  "Joint Safety Committee": null,
+  "Northern DMC Community Ambulance Service Agency": null,
+  "West Union City": {
+    "lat": 42.9516445,
+    "lon": -91.8148842
+  },
+  "Burlington Community School District": {
+    "lat": 40.7991964,
+    "lon": -91.1166769
+  },
+  "Burt City": {
+    "lat": 43.1973951,
+    "lon": -94.2194112
+  },
+  "Rural Iowa Waste Management Association": null,
+  "Shell Rock City": null,
+  "CAM Community School District": null,
+  "Calhoun County": {
+    "lat": 42.3808184,
+    "lon": -94.6332459
+  },
+  "Cherokee Mental Health Institute": {
+    "lat": 42.7572584,
+    "lon": -95.5727803
+  },
+  "Iowa Department of Information Technology": null,
+  "Jolley City": null,
+  "Knierim City": null,
+  "Lohrville City": {
+    "lat": 42.2702503,
+    "lon": -94.5486926
+  },
+  "Lytton City": {
+    "lat": 42.4222027,
+    "lon": -94.8599849
+  },
+  "Missouri Valley City": {
+    "lat": 41.5568751,
+    "lon": -95.904741
+  },
+  "Region IV Hazardous Materials Response Commission": null,
+  "Rinard City": null,
+  "Somers City": {
+    "lat": 42.3781584,
+    "lon": -94.4300056
+  },
+  "Yetter City": null,
+  "Callender City": null,
+  "Camanche City": {
+    "lat": 42.5388179,
+    "lon": -96.3922727
+  },
+  "Clinton County": {
+    "lat": 41.9054695,
+    "lon": -90.5599971
+  },
+  "Low Moor City": null,
+  "Camanche Community School District": null,
+  "Calamus-Wheatland Community School District": null,
+  "Clinton Community School District": null,
+  "Cambridge City": {
+    "lat": 41.8990065,
+    "lon": -93.5281864
+  },
+  "Camp Township (Polk County)": {
+    "lat": 41.4976851,
+    "lon": -93.3293266
+  },
+  "Cantril City": {
+    "lat": 40.6441445,
+    "lon": -92.0691142
+  },
+  "Carl Township (Adams County)": null,
+  "Carlisle City": {
+    "lat": 41.4994103,
+    "lon": -93.4875214
+  },
+  "Iowa Department of Public Safety": null,
+  "Carlisle Community School District": {
+    "lat": 41.4972203,
+    "lon": -93.4889925
+  },
+  "Carroll City": {
+    "lat": 42.0557364,
+    "lon": -94.8605845
+  },
+  "Carroll Community School District": null,
+  "Arcadia City": {
+    "lat": 42.0866093,
+    "lon": -95.0451677
+  },
+  "Dedham City": {
+    "lat": 41.9060971,
+    "lon": -94.8222061
+  },
+  "Halbur City": null,
+  "Lanesboro City": null,
+  "Ralston City": {
+    "lat": 41.6529815,
+    "lon": -91.5006078
+  },
+  "Templeton City": {
+    "lat": 41.9182348,
+    "lon": -94.9428226
+  },
+  "Westside City": {
+    "lat": 43.431687,
+    "lon": -96.1837829
+  },
+  "Carroll County, Illinois": null,
+  "Carroll Depot Centre, Ltd.": null,
+  "Carson City": {
+    "lat": 41.2369556,
+    "lon": -95.4179385
+  },
+  "Cascade City": {
+    "lat": 42.2991715,
+    "lon": -91.0148618
+  },
+  "Farley City": {
+    "lat": 42.4463093,
+    "lon": -90.9997027
+  },
+  "Casey City": {
+    "lat": 41.5089796,
+    "lon": -94.5169179
+  },
+  "Mechanicsville City": null,
+  "Montgomery County": {
+    "lat": 41.0166807,
+    "lon": -95.1753285
+  },
+  "Cedar County": {
+    "lat": 41.7608608,
+    "lon": -91.1263198
+  },
+  "All Saints Elementary School": null,
+  "Bennett City": {
+    "lat": 41.7732963,
+    "lon": -93.7188218
+  },
+  "Cedar Rapids Community School District": null,
+  "Chicago, Central & Pacific Rail Company": null,
+  "College Community School District": {
+    "lat": 41.9017029,
+    "lon": -91.6616865
+  },
+  "Eastern Iowa Mental Health and Disability Services": null,
+  "Harris City": {
+    "lat": 42.5018647,
+    "lon": -96.4502199
+  },
+  "Holy Family School System": null,
+  "Iowa Telecommunications and Technology Commission": null,
+  "Linn County Metro Hazardous Materials Task Force": null,
+  "Linn Mar Community School District": null,
+  "Marion City": {
+    "lat": 42.032845,
+    "lon": -91.5985858
+  },
+  "Muscatine County": {
+    "lat": 41.4776121,
+    "lon": -91.1210053
+  },
+  "Southeast Iowa Response Group": {
+    "lat": 41.0228012,
+    "lon": -92.4144374
+  },
+  "St. Matthew Elementary School": null,
+  "University of Northern Iowa": {
+    "lat": 42.5102697,
+    "lon": -92.4630553
+  },
+  "Tanager Place": {
+    "lat": 41.9561997,
+    "lon": -91.6457902
+  },
+  "Trinity Lutheran School [District] of Cedar Rapids": null,
+  "Center Grove Township (Dickinson County)": null,
+  "Center Township (Allamakee County)": {
+    "lat": 43.297859,
+    "lon": -91.3098937
+  },
+  "Glenwood City": {
+    "lat": 41.0482068,
+    "lon": -95.741644
+  },
+  "Centerville City": {
+    "lat": 40.7296213,
+    "lon": -92.8801
+  },
+  "Centerville Community School District": null,
+  "Appanoose All-Play, Inc.": null,
+  "Central Ambulance Service": null,
+  "Clear Lake Fire Department": null,
+  "Mason City": {
+    "lat": 43.1524574,
+    "lon": -93.2017941
+  },
+  "Mason City Fire Department": {
+    "lat": 43.1476509,
+    "lon": -93.2068586
+  },
+  "Central City": {
+    "lat": 42.2039609,
+    "lon": -91.5243615
+  },
+  "Cedar Valley Humane Society": {
+    "lat": 41.9750795,
+    "lon": -91.5439271
+  },
+  "Central Community School District": null,
+  "Central Iowa Employment and Training Consortium": null,
+  "Job Training Partners": null,
+  "Northwest Iowa Health Center": {
+    "lat": 43.1865588,
+    "lon": -95.8465083
+  },
+  "Central Iowa Regional Transportation Planning Alliance": null,
+  "Des Moines Area Metropolitan Planning Organization": null,
+  "Central Lee Community School District": null,
+  "Lee County": {
+    "lat": 40.6524894,
+    "lon": -91.507313
+  },
+  "Clear Lake City": {
+    "lat": 43.1380401,
+    "lon": -93.379792
+  },
+  "Floyd County": {
+    "lat": 43.0587894,
+    "lon": -92.7830539
+  },
+  "Iowa Law Enforcement Academy": {
+    "lat": 41.7062093,
+    "lon": -93.7142655
+  },
+  "North Iowa Fair Association": null,
+  "Red Oak City": null,
+  "Thornton City": null,
+  "Cerro Gordo County E-911 Service Board": null,
+  "Lucas County": null,
+  "Charles City": {
+    "lat": 43.0662177,
+    "lon": -92.6794258
+  },
+  "Charles City Community School District": null,
+  "North Cedar Community School District": null,
+  "North Iowa Area Community College": {
+    "lat": 43.1576201,
+    "lon": -93.1316612
+  },
+  "Charter Oak-Ute Community School District": null,
+  "Chatsworth City": null,
+  "Chelsea City": {
+    "lat": 41.9191607,
+    "lon": -92.3948104
+  },
+  "Tama County": {
+    "lat": 42.0568108,
+    "lon": -92.5433918
+  },
+  "Cherokee City": {
+    "lat": 42.7502812,
+    "lon": -95.5533453
+  },
+  "Cherokee Community School District": null,
+  "Cherokee County": {
+    "lat": 42.7247968,
+    "lon": -95.6249803
+  },
+  "Clay County": null,
+  "Cleghorn City": null,
+  "Larrabee City": null,
+  "Northwest Iowa Contracting Consortium": null,
+  "Quimby City": {
+    "lat": 42.6302264,
+    "lon": -95.6417173
+  },
+  "Henry County": {
+    "lat": 40.9778301,
+    "lon": -91.5511282
+  },
+  "Cherokee Work Activity Center": null,
+  "Chester City": {
+    "lat": 43.4910768,
+    "lon": -92.3598934
+  },
+  "Howard County": {
+    "lat": 43.3353641,
+    "lon": -92.3230007
+  },
+  "Ionia City": null,
+  "Iowa Precinct Atlas Consortium": null,
+  "North Washington City": {
+    "lat": 43.1503153,
+    "lon": -93.2027127
+  },
+  "Prime Contractor": null,
+  "Protivin City": {
+    "lat": 43.2152307,
+    "lon": -92.090711
+  },
+  "Chillicothe City": {
+    "lat": 41.0860544,
+    "lon": -92.5291196
+  },
+  "Iowa Municipal Workers' Compensation Association": null,
+  "Churdan City": {
+    "lat": 42.1555374,
+    "lon": -94.4766392
+  },
+  "Jefferson City": {
+    "lat": 41.6632491,
+    "lon": -91.5277633
+  },
+  "City-Township Ambulance Association": null,
+  "Clarence City": {
+    "lat": 41.888907,
+    "lon": -91.0590424
+  },
+  "Lowden City": null,
+  "Clarinda Youth Corporation": null,
+  "Clarinda Community School District": null,
+  "Clarion City": {
+    "lat": 42.7279829,
+    "lon": -93.7343351
+  },
+  "Clarion-Goldfield Community School District": null,
+  "Clarke Community School District": null,
+  "Clay County Rural Water District": null,
+  "Murray Community Fire District": null,
+  "Union County": {
+    "lat": 41.015699,
+    "lon": -94.2472694
+  },
+  "Dickinson County": {
+    "lat": 43.3753018,
+    "lon": -95.1654279
+  },
+  "Ellsworth Municipal Hospital": null,
+  "Gillett Grove City": {
+    "lat": 43.0157734,
+    "lon": -95.03749
+  },
+  "Northwest Iowa Care Connections": null,
+  "Spencer City": {
+    "lat": 41.6516489,
+    "lon": -91.570576
+  },
+  "Clayton City": null,
+  "Clayton County": {
+    "lat": 42.8547706,
+    "lon": -91.3667151
+  },
+  "Dubuque City": {
+    "lat": 42.5052238,
+    "lon": -90.6676948
+  },
+  "Farmersburg City": null,
+  "Marquette City": {
+    "lat": 43.0452656,
+    "lon": -91.1777205
+  },
+  "Clear Creek Amana Community School District": null,
+  "Tiffin City": {
+    "lat": 41.7046542,
+    "lon": -91.6541071
+  },
+  "Clear Lake Community School District": null,
+  "Clemons City": null,
+  "Cleona Township (Scott County)": {
+    "lat": 41.6546954,
+    "lon": -90.841087
+  },
+  "Durant City": {
+    "lat": 41.6025407,
+    "lon": -90.9136725
+  },
+  "Clermont City": {
+    "lat": 43.0010045,
+    "lon": -91.6531742
+  },
+  "Clinton City": {
+    "lat": 41.6589895,
+    "lon": -91.5346258
+  },
+  "Area Substance Abuse Council": null,
+  "Mercy Medical Center": {
+    "lat": 41.9783082,
+    "lon": -91.65686
+  },
+  "Goose Lake City": {
+    "lat": 41.968063,
+    "lon": -90.3809203
+  },
+  "Jackson County": {
+    "lat": 42.1420382,
+    "lon": -90.5480067
+  },
+  "Lost Nation City": null,
+  "Toronto City": null,
+  "Urbandale City": {
+    "lat": 41.6272152,
+    "lon": -93.7376616
+  },
+  "Urbandale Sanitary Sewer District": null,
+  "Waukee City": {
+    "lat": 41.6144027,
+    "lon": -93.8786728
+  },
+  "West Des Moines City": {
+    "lat": 41.5965769,
+    "lon": -93.2460513
+  },
+  "Clutier City": {
+    "lat": 42.0781425,
+    "lon": -92.4036483
+  },
+  "Coffins Grove Township (Delaware County)": null,
+  "Manchester City": {
+    "lat": 42.4841053,
+    "lon": -91.4562914
+  },
+  "Coggon City": {
+    "lat": 42.2811529,
+    "lon": -91.5311405
+  },
+  "Coin City": {
+    "lat": 40.6545448,
+    "lon": -95.2316926
+  },
+  "Colesburg City": {
+    "lat": 42.6404762,
+    "lon": -91.2051295
+  },
+  "Colfax City": {
+    "lat": 41.6774888,
+    "lon": -93.2454828
+  },
+  "Jasper County": null,
+  "Newton City": {
+    "lat": 41.6625159,
+    "lon": -91.5487895
+  },
+  "College Springs City": {
+    "lat": 40.6192384,
+    "lon": -95.1208155
+  },
+  "Collins City": {
+    "lat": 41.9014326,
+    "lon": -93.3047683
+  },
+  "Collins-Maxwell Community School District": null,
+  "Colo City": null,
+  "Columbus Community School District": {
+    "lat": 41.2690056,
+    "lon": -91.3698677
+  },
+  "Colwell City": null,
+  "Community Resources In Service To People": null,
+  "Winterset Community School District": {
+    "lat": 41.3242351,
+    "lon": -94.0210996
+  },
+  "Conrad City": {
+    "lat": 42.2312338,
+    "lon": -92.875716
+  },
+  "Cooper Township (Webster County)": {
+    "lat": 42.5085382,
+    "lon": -94.1117233
+  },
+  "Vincent City": {
+    "lat": 42.591888,
+    "lon": -94.0201082
+  },
+  "Coralville City": {
+    "lat": 41.6820599,
+    "lon": -91.5664501
+  },
+  "Link Associates": {
+    "lat": 41.5946948,
+    "lon": -93.7448524
+  },
+  "North Iowa Area Council of Governments": null,
+  "Old Capitol Cab Company": null,
+  "Yellow Cab Company of Iowa City": null,
+  "Corning Community School District": null,
+  "Correctionville City": {
+    "lat": 42.4901189,
+    "lon": -96.3594447
+  },
+  "Corwith City": null,
+  "Corydon City": {
+    "lat": 40.7566722,
+    "lon": -93.3118783
+  },
+  "Wayne County": null,
+  "Covenant Medical Center": null,
+  "Crawford County": {
+    "lat": 42.020579,
+    "lon": -95.3811884
+  },
+  "Arion City": null,
+  "Buck Grove City": null,
+  "Charter Oak City": null,
+  "Deloit City": null,
+  "Kiron City": {
+    "lat": 42.1950017,
+    "lon": -95.3264572
+  },
+  "Ute City": {
+    "lat": 42.0505234,
+    "lon": -95.7058387
+  },
+  "Vail City": {
+    "lat": 42.0602344,
+    "lon": -95.2002412
+  },
+  "Crawfordsville City": {
+    "lat": 41.2142844,
+    "lon": -91.5391298
+  },
+  "Crawford Township Fire Association": null,
+  "Crescent City": null,
+  "Cresco City": {
+    "lat": 43.3758013,
+    "lon": -92.1159992
+  },
+  "Cresco Community Fire Protective District": null,
+  "Creston Community School District": null,
+  "Creston City": {
+    "lat": 41.0570515,
+    "lon": -94.3625334
+  },
+  "Iowa Schools Employee Benefits Association, Inc.": null,
+  "Crystal Lake City": {
+    "lat": 43.2504142,
+    "lon": -93.6385222
+  },
+  "Crystal Township (Tama County)": {
+    "lat": 42.1667491,
+    "lon": -92.5919326
+  },
+  "Gladbrook City": {
+    "lat": 42.1877647,
+    "lon": -92.7146434
+  },
+  "Cumming City": null,
+  "Des Moines Metropolitan Wastewater Reclamation Authority": null,
+  "Warren County": {
+    "lat": 41.3138645,
+    "lon": -93.5685324
+  },
+  "Curlew City": null,
+  "Cushing City": {
+    "lat": 42.4655433,
+    "lon": -95.6752839
+  },
+  "Cylinder City": {
+    "lat": 43.0902694,
+    "lon": -94.5488804
+  },
+  "DNR Sawmill": null,
+  "DNR-Roving Crew": null,
+  "Dakota City": {
+    "lat": 42.7212439,
+    "lon": -94.2013744
+  },
+  "Humboldt County": {
+    "lat": 42.7756032,
+    "lon": -94.1956133
+  },
+  "Dakota City, Nebraska and Dakota-Covington": null,
+  "Dakota Valley Fire District": null,
+  "Dallas Center-Grimes Community School District": null,
+  "Contractor": {
+    "lat": 41.5642136,
+    "lon": -93.7211491
+  },
+  "Urbandale Community School District": null,
+  "Bouton City": {
+    "lat": 41.8525349,
+    "lon": -94.0079943
+  },
+  "Granger City": {
+    "lat": 41.7604048,
+    "lon": -93.8205792
+  },
+  "Iowa Department of Public Health (State Medical Examiner Office)": null,
+  "Madison County": {
+    "lat": 41.3133406,
+    "lon": -94.0167968
+  },
+  "Nick Aeschliman": null,
+  "Northern Warren Fire and Emergency Response Agency": null,
+  "Perry City": {
+    "lat": 41.8387551,
+    "lon": -94.1063634
+  },
+  "Redfield City": {
+    "lat": 41.5902475,
+    "lon": -94.1979493
+  },
+  "Van Meter City": {
+    "lat": 42.4816376,
+    "lon": -96.3850256
+  },
+  "Various Counties and Municipalities": null,
+  "Westcom": null,
+  "Danbury City": {
+    "lat": 42.2344346,
+    "lon": -95.7219249
+  },
+  "Danbury Ambulance Service": null,
+  "Danbury Fire Department": {
+    "lat": 42.2344339,
+    "lon": -95.7219488
+  },
+  "Danville City": {
+    "lat": 40.8658564,
+    "lon": -91.315017
+  },
+  "Danville Community School District": null,
+  "Davis City": {
+    "lat": 40.6389397,
+    "lon": -93.8085217
+  },
+  "Decatur County": {
+    "lat": 40.7418231,
+    "lon": -93.7994193
+  },
+  "Davis County": {
+    "lat": 40.7474784,
+    "lon": -92.3965311
+  },
+  "Area 15 Regional Planning Commission": null,
+  "Dayton City": {
+    "lat": 42.2619199,
+    "lon": -94.0707896
+  },
+  "Gowrie City": {
+    "lat": 42.2805315,
+    "lon": -94.2885768
+  },
+  "Decatur City": {
+    "lat": 40.7416321,
+    "lon": -93.8337588
+  },
+  "Central Decatur Community School District": null,
+  "Lamoni Community School District": null,
+  "Le Grand City": null,
+  "Leroy Township (Bremer County)": null,
+  "Mormon Trail Community School District": null,
+  "Pleasanton City": null,
+  "Positive Parenting, Inc.": null,
+  "South Central Iowa Community Action Agency": null,
+  "Decorah City": {
+    "lat": 43.3058688,
+    "lon": -91.7897809
+  },
+  "Decorah Community School District": null,
+  "Decorah Jobs, Inc.": null,
+  "Winneshiek County": {
+    "lat": 43.2677179,
+    "lon": -91.8563139
+  },
+  "Deep Creek Township (Jackson County)": null,
+  "Preston City": {
+    "lat": 41.666146,
+    "lon": -91.6016772
+  },
+  "Deep River City": null,
+  "Delaware City": {
+    "lat": 43.1367544,
+    "lon": -93.1998192
+  },
+  "Delhi City": {
+    "lat": 42.4300183,
+    "lon": -91.3337861
+  },
+  "Dyersville City": {
+    "lat": 42.4848663,
+    "lon": -91.1206707
+  },
+  "Lake Delhi Combined Recreational and Water Quality District": null,
+  "Winneshiek County Emergency Management Commission": null,
+  "Maquoketa Valley Community School District": null,
+  "Delmar City": null,
+  "Delwood Community School District": null,
+  "Maquoketa Community School District": null,
+  "Denison City": {
+    "lat": 42.0235991,
+    "lon": -95.3555535
+  },
+  "Denison Community School District": null,
+  "Western Iowa Tech Community College": {
+    "lat": 42.485049,
+    "lon": -96.345615
+  },
+  "Denver Community School District": {
+    "lat": 42.6697329,
+    "lon": -92.3309798
+  },
+  "Denver City": {
+    "lat": 42.6726803,
+    "lon": -92.3320964
+  },
+  "Des Moines Airport Authority": null,
+  "Area Education Agency 1": null,
+  "Des Moines Christian School": {
+    "lat": 41.628811,
+    "lon": -93.7977225
+  },
+  "Chinese Cultural Center Of America": null,
+  "Des Moines Corporation for Economic Development": null,
+  "Des Moines Park and Recreation Foundation, Inc.": null,
+  "Greater Des Moines Community Foundation": {
+    "lat": 41.5936281,
+    "lon": -93.6170555
+  },
+  "Iowa Insurance Division": null,
+  "Kiwanis Riverview Nature Island Inc.": null,
+  "Mount Pleasant City": {
+    "lat": 40.9605704,
+    "lon": -91.5548502
+  },
+  "Neighborhood Development Corporation": null,
+  "Neighborhood Finance Corporation": null,
+  "Veterans Memorial Auditorium Commission": null,
+  "Windsor Heights City": {
+    "lat": 41.6664642,
+    "lon": -91.5093162
+  },
+  "Washington Township (Des Moines County)": {
+    "lat": 41.597629,
+    "lon": -93.2357042
+  },
+  "Bidwell Riverside Child Development Center": null,
+  "Christ the King Preschool": null,
+  "Conmigo Early Education Center": {
+    "lat": 41.5826297,
+    "lon": -93.6031224
+  },
+  "Cornerstone Family Church Preschool": null,
+  "Drake University": {
+    "lat": 41.6030743,
+    "lon": -93.6552753
+  },
+  "Evelyn Davis Child Care Center": null,
+  "Grace United Methodist Preschool": null,
+  "Hispanic Educational Resources": null,
+  "Holy Trinity Preschool": null,
+  "Oak Academy": {
+    "lat": 42.0097097,
+    "lon": -93.4507676
+  },
+  "Oakridge Child Care Center": null,
+  "Science Center of Iowa Preschool": null,
+  "St. Anthony Preschool": null,
+  "St. Anthony School": {
+    "lat": 41.3204775,
+    "lon": -93.1062247
+  },
+  "St. Augustin Preschool": null,
+  "St. Joseph Preschool": null,
+  "St. Theresa Preschool": null,
+  "St. Theresa School": {
+    "lat": 41.6016335,
+    "lon": -93.6995081
+  },
+  "Westminster Presbyterian Church Preschool": null,
+  "Xochipilli, Hispanic Educational Resources": null,
+  "Des Moines Skywalk Association": null,
+  "Dexter City": {
+    "lat": 41.5191257,
+    "lon": -94.2237797
+  },
+  "Diagonal City": {
+    "lat": 40.808751,
+    "lon": -94.3399216
+  },
+  "Diamondhead Sanitary District": null,
+  "Dickens City": {
+    "lat": 41.6765526,
+    "lon": -91.5126569
+  },
+  "Iowa Lakes Regional Water": null,
+  "Dike City": {
+    "lat": 42.4638602,
+    "lon": -92.6282671
+  },
+  "Dodge Township (Dubuque County)": {
+    "lat": 42.4270008,
+    "lon": -91.0723496
+  },
+  "Dolliver City": null,
+  "Emmet County": {
+    "lat": 43.3707528,
+    "lon": -94.6749933
+  },
+  "Donahue City": null,
+  "Donna R. Thomas": null,
+  "Donnellson City": {
+    "lat": 40.6433176,
+    "lon": -91.5632949
+  },
+  "Dordt College, Inc.": null,
+  "Sioux Center Community School District": null,
+  "Douglas Township (Polk County)": {
+    "lat": 41.6293254,
+    "lon": -93.8145032
+  },
+  "Essex City": {
+    "lat": 40.8333288,
+    "lon": -95.3074884
+  },
+  "Dow City": {
+    "lat": 41.9288897,
+    "lon": -95.4960779
+  },
+  "Dowling Catholic High School": {
+    "lat": 41.5961065,
+    "lon": -93.723493
+  },
+  "Dows City": {
+    "lat": 42.6563892,
+    "lon": -93.5014759
+  },
+  "Franklin County": {
+    "lat": 42.7285907,
+    "lon": -93.2513168
+  },
+  "Dubuque Community School District": {
+    "lat": 42.4396738,
+    "lon": -91.0107313
+  },
+  "Bi-County Ambulance Service": null,
+  "Centralia City": null,
+  "Epworth City": {
+    "lat": 42.4410536,
+    "lon": -90.9297749
+  },
+  "Holy Cross/North Buena Vista Fire Department": null,
+  "New Vienna Fire Department": null,
+  "Sigourney Community Fire Department, Inc.": null,
+  "Dumont City": {
+    "lat": 42.7489405,
+    "lon": -92.9721547
+  },
+  "Duncombe City": {
+    "lat": 42.4705269,
+    "lon": -93.9930069
+  },
+  "Duncombe Fire Department": {
+    "lat": 42.4705276,
+    "lon": -93.9929618
+  },
+  "Dundee City": null,
+  "Dunkerton City": null,
+  "Durango City": {
+    "lat": 41.6477015,
+    "lon": -91.6018327
+  },
+  "Durant Community School District": null,
+  "Dutch Creek Township (Washington County)": null,
+  "Keota Volunteer Fire Department": null,
+  "Dysart City": null,
+  "Eagle Grove City": {
+    "lat": 42.6638661,
+    "lon": -93.8992859
+  },
+  "Eagle Grove Community School District": null,
+  "U.S. Department of the Interior": null,
+  "Earlham City": {
+    "lat": 41.4910162,
+    "lon": -94.1226691
+  },
+  "Earlham Community School District": null,
+  "Earlville City": null,
+  "East Central Intergovernmental Association": {
+    "lat": 42.4938748,
+    "lon": -90.7752161
+  },
+  "Iowa Workforce Development": {
+    "lat": 41.5923514,
+    "lon": -93.6050645
+  },
+  "East Greene Community School District": null,
+  "East Marshall Community School District": null,
+  "East Peru City": null,
+  "East Waterloo Township (Black Hawk County)": null,
+  "Eastern Allamakee Community Schools": null,
+  "Eastern Iowa Community College District": null,
+  "Eddyville City": {
+    "lat": 41.1564245,
+    "lon": -92.6384711
+  },
+  "Edgewood City": {
+    "lat": 42.6449411,
+    "lon": -91.4033253
+  },
+  "Edgewood Little League Association": null,
+  "Edgewood-Colesburg Community School District": null,
+  "Elberon City": {
+    "lat": 42.0057534,
+    "lon": -92.3165928
+  },
+  "Iowa Board of Regents": null,
+  "Eldora City": {
+    "lat": 42.3615018,
+    "lon": -93.0879323
+  },
+  "Eldora-New Providence Community School District": null,
+  "Eldridge City": {
+    "lat": 41.6576658,
+    "lon": -90.5855198
+  },
+  "Long Grove City": {
+    "lat": 41.6981884,
+    "lon": -90.5832887
+  },
+  "Elgin City": {
+    "lat": 42.9577589,
+    "lon": -91.629873
+  },
+  "Eliminator Refuse Company": null,
+  "Elk Horn City": {
+    "lat": 41.5929756,
+    "lon": -95.0577771
+  },
+  "Evansdale City": {
+    "lat": 42.4782328,
+    "lon": -92.2886417
+  },
+  "Elk Horn-Kimballton Community School District": null,
+  "Elkhart City": {
+    "lat": 41.7929022,
+    "lon": -93.5276049
+  },
+  "Elm Grove Township (Calhoun County)": {
+    "lat": 42.3403081,
+    "lon": -94.8018717
+  },
+  "Ely City": {
+    "lat": 41.8776886,
+    "lon": -91.5857511
+  },
+  "Emerson City": {
+    "lat": 41.0179756,
+    "lon": -95.4027123
+  },
+  "Mills County": {
+    "lat": 41.0171392,
+    "lon": -95.6087477
+  },
+  "Gruver City": null,
+  "Wallingford City": {
+    "lat": 43.3199431,
+    "lon": -94.7938242
+  },
+  "Emmetsburg City": {
+    "lat": 43.112465,
+    "lon": -94.6777578
+  },
+  "Iowa Lakes Community College": {
+    "lat": 43.3971062,
+    "lon": -94.8167437
+  },
+  "Shenandoah City": {
+    "lat": 40.765275,
+    "lon": -95.3722103
+  },
+  "Essex Community School District": null,
+  "Estherville Lincoln Central Community School District": null,
+  "Youth Services International": null,
+  "Exira City": null,
+  "Exira Community School District": null,
+  "Fairfax City": {
+    "lat": 41.9174276,
+    "lon": -91.7762673
+  },
+  "Fairfield City": {
+    "lat": 41.0060455,
+    "lon": -91.9640222
+  },
+  "Iowa Governmental Health Care Pool": null,
+  "Iowa Higher Education Loan Authority": null,
+  "Fairview Beach Well Association": null,
+  "Farmington City": {
+    "lat": 40.6392998,
+    "lon": -91.740762
+  },
+  "Farragut City": {
+    "lat": 40.7191862,
+    "lon": -95.4807101
+  },
+  "Fremont County": {
+    "lat": 40.7345943,
+    "lon": -95.5924782
+  },
+  "Hawkeye City": {
+    "lat": 41.6640099,
+    "lon": -91.5545369
+  },
+  "Randalia City": null,
+  "Sartori Paramedic Ambulance Service": null,
+  "Westgate City": {
+    "lat": 41.6514053,
+    "lon": -91.567316
+  },
+  "Fayette County Solid Waste Management Commission": null,
+  "Ferguson City": {
+    "lat": 43.0702496,
+    "lon": -92.677976
+  },
+  "Fillmore Township (Iowa County)": {
+    "lat": 41.5575285,
+    "lon": -92.0057423
+  },
+  "Tripoli Rural Fire Agency": null,
+  "Floyd City": {
+    "lat": 42.5318579,
+    "lon": -96.3724451
+  },
+  "Floyd Community Volunteer Fire Department": null,
+  "Center Point City": {
+    "lat": 42.1867374,
+    "lon": -91.7783333
+  },
+  "Iowa Legislative Services Agency": null,
+  "Marble Rock City": {
+    "lat": 42.9676151,
+    "lon": -92.8716276
+  },
+  "Fonda City": {
+    "lat": 42.5816445,
+    "lon": -94.8455402
+  },
+  "Fontanelle City": {
+    "lat": 41.2892899,
+    "lon": -94.5642236
+  },
+  "Forest City": {
+    "lat": 43.2626747,
+    "lon": -93.6376741
+  },
+  "Forest City Ambulance Service": null,
+  "Forest City Chamber of Commerce": null,
+  "Forest City Economic Development, Inc.": null,
+  "Forest City Community School District": null,
+  "Forest City Fire Department": {
+    "lat": 43.2641441,
+    "lon": -93.6361756
+  },
+  "Fort Dodge City": null,
+  "Fort Dodge Community School District": null,
+  "Fort Madison City": {
+    "lat": 40.6296377,
+    "lon": -91.3235996
+  },
+  "Fort Dodge Convention & Visitors Bureau": null,
+  "Iowa Department of Education": null,
+  "Webster County": {
+    "lat": 42.4326072,
+    "lon": -94.184316
+  },
+  "Franklin City": {
+    "lat": 41.5846679,
+    "lon": -93.6327741
+  },
+  "Regional Utility Service Systems Commission": null,
+  "Geneva City": {
+    "lat": 42.5063831,
+    "lon": -96.4181215
+  },
+  "Hamilton County": {
+    "lat": 42.382945,
+    "lon": -93.7083849
+  },
+  "Hampton City": {
+    "lat": 42.7413241,
+    "lon": -93.208075
+  },
+  "Popejoy City": null,
+  "Fredericksburg City": null,
+  "Frederika City": null,
+  "Fremont City": {
+    "lat": 41.2127894,
+    "lon": -92.4346313
+  },
+  "Olin City": {
+    "lat": 41.9920223,
+    "lon": -91.1327421
+  },
+  "Randolph City": null,
+  "Thurman City": null,
+  "French Creek Township (Allamakee County)": {
+    "lat": 43.3848374,
+    "lon": -91.4318323
+  },
+  "Palmer Rural Fire Association": null,
+  "Friends of the Des Moines Botanical Center": null,
+  "Friends of the Mines of Spain": null,
+  "Fruitland City": {
+    "lat": 41.3546978,
+    "lon": -91.123706
+  },
+  "Muscatine City": {
+    "lat": 41.643372,
+    "lon": -91.5083582
+  },
+  "Garfield Township (Montgomery County)": null,
+  "Garner City": null,
+  "Buffalo Volunteer Ambulance Service, Inc.": null,
+  "Garwin City": {
+    "lat": 42.092211,
+    "lon": -92.6768635
+  },
+  "Geneseo Township (Tama County)": {
+    "lat": 42.2531619,
+    "lon": -92.3578782
+  },
+  "Sheffield City": {
+    "lat": 42.8928465,
+    "lon": -93.2184877
+  },
+  "George-Little Rock Community School District": null,
+  "Lyon County": {
+    "lat": 43.3747071,
+    "lon": -96.2081917
+  },
+  "Gilbert City": {
+    "lat": 41.6600004,
+    "lon": -91.5303643
+  },
+  "Gilbert Community School District": null,
+  "Gilbertville City": null,
+  "Gilman City": {
+    "lat": 42.5106259,
+    "lon": -96.4142715
+  },
+  "Gilmore City": {
+    "lat": 42.7295676,
+    "lon": -94.4432825
+  },
+  "Gladbrook-Reinbeck Community School District": null,
+  "Crayon Corner Learning Center, Inc.": null,
+  "G-R Daycare Inc. (Little Rebels Learning Center)": null,
+  "Grundy Center Community School District": null,
+  "Glenwood Community School District": {
+    "lat": 41.0394104,
+    "lon": -95.7375282
+  },
+  "Glidden City": null,
+  "Golden Buckley Apartments": null,
+  "Goldfield City": {
+    "lat": 42.7357459,
+    "lon": -93.920127
+  },
+  "Goodell City": null,
+  "Graettinger Community School District": null,
+  "Terril Community School District": null,
+  "Graf City": null,
+  "Grand Valley Community School District": null,
+  "Mount Ayr Community School District": null,
+  "Grant City": {
+    "lat": 42.2674833,
+    "lon": -94.887764
+  },
+  "Grant Wood Area Education Agency": {
+    "lat": 41.9351422,
+    "lon": -91.674893
+  },
+  "Iowa Public Insurance Program": null,
+  "Granville City": {
+    "lat": 42.985956,
+    "lon": -95.8758461
+  },
+  "Gravity City": null,
+  "Gray City": null,
+  "Greater Denver Activities Foundation, Inc.": null,
+  "Green Mountain-Garwin (GMG) Community School District": null,
+  "Greenbelt Home Care": null,
+  "Greene City": null,
+  "Greenfield City": {
+    "lat": 41.3075109,
+    "lon": -94.4587097
+  },
+  "Grimes City": {
+    "lat": 41.6873751,
+    "lon": -93.7949903
+  },
+  "Grinnell City": {
+    "lat": 41.719795,
+    "lon": -92.746909
+  },
+  "Grinnell-Newburg Community School District": null,
+  "Griswold City": {
+    "lat": 41.2346695,
+    "lon": -95.1433233
+  },
+  "Griswold Community School District": null,
+  "Grove Township (Cass County)": {
+    "lat": 41.4035336,
+    "lon": -94.9861538
+  },
+  "Sharpsburg City": null,
+  "Guthrie Center City": null,
+  "Budensiek Co.": null,
+  "Coon Rapids City": {
+    "lat": 41.8467489,
+    "lon": -94.3606492
+  },
+  "Panora City": {
+    "lat": 41.6918739,
+    "lon": -94.3662177
+  },
+  "Xenia Rural Water District": {
+    "lat": 41.834248,
+    "lon": -94.0101236
+  },
+  "Guttenberg City": {
+    "lat": 42.7814138,
+    "lon": -91.0965662
+  },
+  "Habitat for Humanity Webster/Humboldt County": null,
+  "Hamburg City": {
+    "lat": 40.6060872,
+    "lon": -95.6550048
+  },
+  "Hamilton City": {
+    "lat": 42.5027923,
+    "lon": -96.4187716
+  },
+  "Marion County": {
+    "lat": 41.3144108,
+    "lon": -93.1010141
+  },
+  "Kamrar City": {
+    "lat": 42.3924775,
+    "lon": -93.7293846
+  },
+  "Randall City": null,
+  "Webster City": {
+    "lat": 42.4695666,
+    "lon": -93.8183858
+  },
+  "Hampton-Dumont Community Schools": null,
+  "Hancock City": {
+    "lat": 42.2722384,
+    "lon": -94.7265381
+  },
+  "Kossuth County": {
+    "lat": 43.1825351,
+    "lon": -94.209098
+  },
+  "Owasa City": null,
+  "Peoplerides": null,
+  "Whitten City": null,
+  "Harlan City": {
+    "lat": 41.6566174,
+    "lon": -95.3199523
+  },
+  "Harlan Community School District": {
+    "lat": 41.6583681,
+    "lon": -95.3378199
+  },
+  "Shelby County": {
+    "lat": 41.668243,
+    "lon": -95.3163623
+  },
+  "Harpers Ferry City": {
+    "lat": 43.2036001,
+    "lon": -91.1480795
+  },
+  "Harrison County": {
+    "lat": 41.6659155,
+    "lon": -95.7976315
+  },
+  "Harvey City": null,
+  "Hastings City": {
+    "lat": 41.6637985,
+    "lon": -91.4876443
+  },
+  "Haverhill City": null,
+  "Hawkeye Community College": {
+    "lat": 42.4249406,
+    "lon": -92.3323143
+  },
+  "CAST": null,
+  "Hayes Township (Crawford County)": {
+    "lat": 41.9875913,
+    "lon": -95.1505143
+  },
+  "Hazel Dell Township (Pottawattamie County)": {
+    "lat": 41.3761868,
+    "lon": -95.7839531
+  },
+  "Hazleton City": null,
+  "Henderson City": null,
+  "Henderson Community Fire Association": null,
+  "Hillsboro City": {
+    "lat": 40.835656,
+    "lon": -91.7134003
+  },
+  "Marshalltown Area Chamber of Commerce": null,
+  "Wayland City": {
+    "lat": 41.1469038,
+    "lon": -91.6615583
+  },
+  "Hepburn City": null,
+  "Hiawatha City": {
+    "lat": 42.0384711,
+    "lon": -91.6752919
+  },
+  "Hills City": {
+    "lat": 42.4353929,
+    "lon": -96.362387
+  },
+  "Holland City": {
+    "lat": 42.9982631,
+    "lon": -96.0476587
+  },
+  "Hopkinton City": {
+    "lat": 42.3433302,
+    "lon": -91.2476466
+  },
+  "Hornick City": {
+    "lat": 42.5139845,
+    "lon": -96.4773639
+  },
+  "Hospers City": {
+    "lat": 42.99925,
+    "lon": -96.0563696
+  },
+  "Housing Corporation of Northwest Iowa": null,
+  "Lime Springs City": {
+    "lat": 43.448494,
+    "lon": -92.2804954
+  },
+  "Mitchell County": {
+    "lat": 43.342033,
+    "lon": -92.7840209
+  },
+  "Howard-Winneshiek Community School District": null,
+  "Hubbard City": {
+    "lat": 42.3057223,
+    "lon": -93.2965553
+  },
+  "Hubbard-Radcliffe Community School District": null,
+  "Hudson City": {
+    "lat": 41.6489328,
+    "lon": -91.5454751
+  },
+  "A-Line Striping & Sweeping": null,
+  "Advanced Systems, Inc.": null,
+  "D.A. Davidson and Co.": null,
+  "EnCompass Cloud and Managed Services": null,
+  "Hudson Sports Complex": {
+    "lat": 42.4039784,
+    "lon": -92.4449469
+  },
+  "Iowa Codification, Inc.": null,
+  "Midwest Fire": null,
+  "Peterson Contractors, Inc.": null,
+  "Plunkett's Pest Control": null,
+  "Veridian Credit Union": {
+    "lat": 41.585974,
+    "lon": -93.644338
+  },
+  "Hull City": {
+    "lat": 43.18735,
+    "lon": -96.1370587
+  },
+  "Humane Society of North Central Iowa": null,
+  "Humboldt City": {
+    "lat": 42.720527,
+    "lon": -94.214129
+  },
+  "Humboldt Community Daycare": null,
+  "Calmar Development Corporation": null,
+  "Livermore City": {
+    "lat": 42.867192,
+    "lon": -94.1844055
+  },
+  "Pocahontas County": {
+    "lat": 42.7262681,
+    "lon": -94.6477383
+  },
+  "Renwick City": {
+    "lat": 42.8287004,
+    "lon": -93.9809649
+  },
+  "Humboldt Workshop": null,
+  "Ida County": {
+    "lat": 42.3788371,
+    "lon": -95.4949407
+  },
+  "Ida Grove City": {
+    "lat": 42.3477352,
+    "lon": -95.4673779
+  },
+  "Immaculate Conception School": {
+    "lat": 43.0652636,
+    "lon": -92.6729267
+  },
+  "Imogene City": null,
+  "Independence City": {
+    "lat": 42.4683902,
+    "lon": -91.8904666
+  },
+  "Independence Community School District": null,
+  "Buchanan County Child Care Council": null,
+  "People's Memorial Community Care": null,
+  "Young House Family Services": null,
+  "Indian Hills Community College": {
+    "lat": 41.0440635,
+    "lon": -92.3916157
+  },
+  "Indianola City": {
+    "lat": 41.349223,
+    "lon": -93.5607592
+  },
+  "Indianola Communications Group, LLC": null,
+  "Mahaska Communications Group, LLC": null,
+  "Indianola Community School District": null,
+  "Ingraham Township (Mills County)": null,
+  "Silver City": {
+    "lat": 41.1133311,
+    "lon": -95.637226
+  },
+  "Intrust (Corporation)": null,
+  "Iowa Alcoholic Beverages Division": {
+    "lat": 41.7095159,
+    "lon": -93.5881323
+  },
+  "Anamosa Fire Department": {
+    "lat": 42.1040551,
+    "lon": -91.2767932
+  },
+  "Belle Plaine City": {
+    "lat": 41.8965196,
+    "lon": -92.2763212
+  },
+  "Belmond Fire Department": {
+    "lat": 42.8465774,
+    "lon": -93.6150861
+  },
+  "Blue Grass City": {
+    "lat": 41.5098278,
+    "lon": -90.7659625
+  },
+  "Carter Lake City": null,
+  "Cedar Falls City": {
+    "lat": 42.5394847,
+    "lon": -92.4486086
+  },
+  "Cedar Rapids Fire Department": null,
+  "Charles City Fire Department": {
+    "lat": 43.0603868,
+    "lon": -92.6724061
+  },
+  "Cherokee Fire Department": {
+    "lat": 42.7483089,
+    "lon": -95.5528631
+  },
+  "Clarinda Fire Department": {
+    "lat": 40.7395773,
+    "lon": -95.034171
+  },
+  "Coralville Fire Department": {
+    "lat": 41.67764,
+    "lon": -91.5828375
+  },
+  "Corning Fire Department": {
+    "lat": 40.9916659,
+    "lon": -94.734797
+  },
+  "Creston Fire Department": {
+    "lat": 41.0612399,
+    "lon": -94.3731094
+  },
+  "Decorah Fire Department": {
+    "lat": 43.3058688,
+    "lon": -91.7901445
+  },
+  "Denison Fire Department": {
+    "lat": 42.0181407,
+    "lon": -95.3558784
+  },
+  "Dewitt Fire Department": null,
+  "Dyersville Community Fire Department": null,
+  "Glenwood Fire Department": null,
+  "Grinnell Fire Department": {
+    "lat": 41.7457497,
+    "lon": -92.7284028
+  },
+  "Grundy Center City": null,
+  "Hartley City": {
+    "lat": 43.1809221,
+    "lon": -95.4776263
+  },
+  "Hudson Fire Department": {
+    "lat": 42.4081695,
+    "lon": -92.4536011
+  },
+  "Jefferson County": {
+    "lat": 41.0131342,
+    "lon": -91.9718642
+  },
+  "Keokuk County": {
+    "lat": 41.3154792,
+    "lon": -92.1867128
+  },
+  "Knoxville City Fire Department": null,
+  "Lake Mills Fire Department": {
+    "lat": 43.41961,
+    "lon": -93.5365463
+  },
+  "Lake Park City": {
+    "lat": 43.1323077,
+    "lon": -94.664407
+  },
+  "Lake View City": {
+    "lat": 42.3051391,
+    "lon": -95.0514959
+  },
+  "Laurens City": {
+    "lat": 42.8491397,
+    "lon": -94.8510961
+  },
+  "Logan Fire Department": null,
+  "Louisa County": {
+    "lat": 41.206668,
+    "lon": -91.2683976
+  },
+  "Manilla City": {
+    "lat": 41.8899873,
+    "lon": -95.2324958
+  },
+  "Manly City": {
+    "lat": 43.2866595,
+    "lon": -93.2013601
+  },
+  "Marcus Fire Department": null,
+  "Marengo City": {
+    "lat": 41.8011148,
+    "lon": -92.0685142
+  },
+  "Marion Fire Department": {
+    "lat": 42.0351788,
+    "lon": -91.5697879
+  },
+  "Marshalltown City": {
+    "lat": 42.0500015,
+    "lon": -92.9133599
+  },
+  "Monona County": {
+    "lat": 42.0218737,
+    "lon": -95.9356631
+  },
+  "Monticello Fire Department": {
+    "lat": 42.2321127,
+    "lon": -91.18767
+  },
+  "Moulton City": {
+    "lat": 40.6858078,
+    "lon": -92.6774545
+  },
+  "Mount Vernon City": {
+    "lat": 41.6644715,
+    "lon": -91.4971645
+  },
+  "Moville Fire Department": {
+    "lat": 42.4885267,
+    "lon": -96.0753786
+  },
+  "Nashua City": null,
+  "New Hampton City": {
+    "lat": 43.0585599,
+    "lon": -92.3136223
+  },
+  "New London City": {
+    "lat": 40.9255252,
+    "lon": -91.4019306
+  },
+  "Northwood City": {
+    "lat": 41.6789464,
+    "lon": -91.5252616
+  },
+  "Odebolt City": {
+    "lat": 42.3124846,
+    "lon": -95.2522167
+  },
+  "Oskaloosa Fire Department": {
+    "lat": 41.2936421,
+    "lon": -92.6446017
+  },
+  "Palo City": {
+    "lat": 42.0653097,
+    "lon": -91.8100933
+  },
+  "Pella Fire Department": null,
+  "Polk City": {
+    "lat": 41.7712593,
+    "lon": -93.7137441
+  },
+  "Red Oak Fire Department": {
+    "lat": 41.0212861,
+    "lon": -95.2322754
+  },
+  "Remsen City": {
+    "lat": 42.5065967,
+    "lon": -96.4277608
+  },
+  "Rock Valley City": {
+    "lat": 41.6426769,
+    "lon": -91.5059202
+  },
+  "Rockwell City": {
+    "lat": 42.3952576,
+    "lon": -94.6338671
+  },
+  "Rolfe City": {
+    "lat": 42.8135834,
+    "lon": -94.5280316
+  },
+  "Sac City": {
+    "lat": 42.4221155,
+    "lon": -94.9885843
+  },
+  "Schaller City": {
+    "lat": 42.416234,
+    "lon": -94.9982432
+  },
+  "Shellsburg City": null,
+  "Shenandoah Fire Department": null,
+  "Sioux Center City": {
+    "lat": 42.4944505,
+    "lon": -96.3997838
+  },
+  "Sioux City Fire Department": {
+    "lat": 42.496661,
+    "lon": -96.4066959
+  },
+  "Sioux Rapids City": {
+    "lat": 42.8969748,
+    "lon": -95.1514234
+  },
+  "Spirit Lake Fire Department": {
+    "lat": 43.4204677,
+    "lon": -95.111335
+  },
+  "Strawberry Point City": {
+    "lat": 42.682828,
+    "lon": -91.5347411
+  },
+  "Sumner Fire Department": {
+    "lat": 42.8477545,
+    "lon": -92.0961212
+  },
+  "University of Iowa Police Department": null,
+  "Villisca Fire Department": null,
+  "Vinton Fire Department": {
+    "lat": 42.1698266,
+    "lon": -92.0233886
+  },
+  "Waterloo Fire Department": null,
+  "West Branch City": {
+    "lat": 41.6665929,
+    "lon": -91.4866772
+  },
+  "West Burlington City": {
+    "lat": 41.6578881,
+    "lon": -91.5369558
+  },
+  "Williamsburg City": {
+    "lat": 43.1500231,
+    "lon": -93.150725
+  },
+  "Worth County": {
+    "lat": 43.3696764,
+    "lon": -93.2658698
+  },
+  "AMU-SkyLink": null,
+  "Cedar Falls Communications Utility": null,
+  "Iowa Central Community College": {
+    "lat": 42.489531,
+    "lon": -94.2032648
+  },
+  "Cedar Rapids Airport Commission": null,
+  "Iowa Department of Administrative Services": null,
+  "Le Mars City": null,
+  "University of Iowa": {
+    "lat": 41.6311024,
+    "lon": -91.540752
+  },
+  "Riverside Community School District": null,
+  "Iowa College Student Aid Commission": null,
+  "ISL Service Corporation": null,
+  "Iowa Comprehensive Petroleum Underground Storage Tank Fund Board": null,
+  "Iowa County Recorders Association": null,
+  "Iowa County Soil and Water Conservation District": null,
+  "Iowa Department for the Blind": null,
+  "Iowa Prison Industries": {
+    "lat": 41.5935396,
+    "lon": -93.5958317
+  },
+  "Iowa Department of Agriculture and Land Stewardship": null,
+  "Iowa Agricultural Mitigation Inc.": null,
+  "Iowa Historical Foundation": null,
+  "Iowa Department of Alcoholic Beverages": null,
+  "Clarinda City": {
+    "lat": 40.7370623,
+    "lon": -95.0214375
+  },
+  "Eastern Iowa Lutheran Bible Camp": null,
+  "Lansing City": {
+    "lat": 43.357545,
+    "lon": -91.2178792
+  },
+  "University of Iowa Hospitals and Clinics": null,
+  "Iowa Department of Cultural Affairs": null,
+  "South Dakota Department of Education": null,
+  "Iowa Department of Education (Capitol Law Library)": null,
+  "Iowa Department of Elder Affairs": null,
+  "Iowa Department of Public Health": null,
+  "Iowa Department of General Services": null,
+  "Johnson Property Development, LLC": null,
+  "World War II Monument Committee, Inc.": null,
+  "Bedford Community School District": null,
+  "Cedar Falls Community School District": null,
+  "Center Point-Urbana Community School District": null,
+  "Colo-NESCO Community School District": null,
+  "Coon Rapids-Bayard Community School District": null,
+  "Davenport Community School District": null,
+  "Department of Corrections": null,
+  "Department of Vermont Health Access": null,
+  "Dunkerton Community School District": null,
+  "East Union Community School District": null,
+  "First Resources, Inc.": null,
+  "Fort Madison Community School District": null,
+  "Hudson Community School District": {
+    "lat": 42.4006227,
+    "lon": -92.452471
+  },
+  "Iowa Department of Human Services (Eldora Boys Training School)": null,
+  "Iowa Department of Justice": null,
+  "Iowa Falls Community School District": null,
+  "Jefferson-Scranton Community School District": null,
+  "Jesup Community School District": null,
+  "Johnston Community School District": {
+    "lat": 41.6763299,
+    "lon": -93.6815557
+  },
+  "Knoxville Community School District": null,
+  "Lineville City": {
+    "lat": 40.5812191,
+    "lon": -93.5238257
+  },
+  "Louisa-Muscatine Community School District": null,
+  "MFL MarMac Community School District": null,
+  "MOC-Floyd Valley Community School District": null,
+  "Madrid Community School District": null,
+  "Manning Community School District": null,
+  "Marion Independent School District": null,
+  "Marshalltown Community School District": null,
+  "Martensdale-St. Marys Community School District": null,
+  "Mason City Community School District": null,
+  "Monticello Community School District": null,
+  "Murray Community School District": null,
+  "Muscatine Community School District": null,
+  "Nevada Community School District": {
+    "lat": 42.0196449,
+    "lon": -93.4394355
+  },
+  "New Hampton Community School District": null,
+  "Newton Community School District": null,
+  "Nodaway Valley Community School District": null,
+  "North Fayette Community School District": null,
+  "North Scott Community School District": null,
+  "Northeast Community School District": {
+    "lat": 41.9664676,
+    "lon": -90.3764369
+  },
+  "Oelwein Community School District": null,
+  "Olin Consolidated School District": null,
+  "Perry Community School District": null,
+  "Pleasant Valley Community School District": null,
+  "Rock Valley Community School District": null,
+  "Roland-Story Community School District": null,
+  "Russell Community School District": null,
+  "Siouxland Human Investment Partnership": null,
+  "South Winneshiek Community School District": null,
+  "Southeast Warren Community School District": null,
+  "Starmont Community School District": null,
+  "Storm Lake Community School District": null,
+  "Tipton Community School District": null,
+  "Toledo City": null,
+  "Turkey Valley Community School District": null,
+  "University of Iowa (School of Social Work)": null,
+  "Valley Community School District": null,
+  "Vinton-Shellsburg Community School District": null,
+  "Waterloo Community School District": null,
+  "Waverly-Shell Rock Community School District": null,
+  "Webster City Community School District": null,
+  "West Central Valley Community School District": null,
+  "West Delaware County Community School District": null,
+  "West Liberty Community School District": null,
+  "West Lyon Community School District": null,
+  "West Marshall Community School District": null,
+  "Western Dubuque Community School District": {
+    "lat": 42.4396738,
+    "lon": -91.0107313
+  },
+  "Williamsburg Community School District": null,
+  "Wilton Community School District": null,
+  "Woodward-Granger Community School District": null,
+  "Iowa Department of Human Services (Woodward State Hospital)": null,
+  "Clarke College": {
+    "lat": 42.505223,
+    "lon": -90.6969774
+  },
+  "Iowa Department of Management": null,
+  "Institute for Tomorrow's Workforce": null,
+  "Camp Wapello Preservation Group": null,
+  "Cedar Valley Resource Conservation and Development": null,
+  "Golden Hills Resource Conservation and Development": null,
+  "Iowa Department of Revenue": null,
+  "Iowa Natural Heritage Foundation": {
+    "lat": 43.4274036,
+    "lon": -95.9065207
+  },
+  "Iowa State Education Association": {
+    "lat": 41.5912645,
+    "lon": -93.6208962
+  },
+  "Iowa State University Research Park Corporation": null,
+  "Izaak Walton League of America": {
+    "lat": 41.0198292,
+    "lon": -92.3711047
+  },
+  "Little Rock City": null,
+  "National Off-Highway Vehicle Conservation Council, Inc.": null,
+  "Nature Conservancy": null,
+  "Northwest Iowa Outdoor Sporting Complex Board": null,
+  "Pheasants Forever, Inc.": null,
+  "Whiterock Conservancy": {
+    "lat": 41.8303662,
+    "lon": -94.6451357
+  },
+  "Iowa Department of Natural Resources (Elk Rock State Park)": null,
+  "Iowa Department of Public Defense": null,
+  "International Simulation and Training Systems, LLC": null,
+  "Capstone Behavioral Healthcare": null,
+  "Iowa Consortium for Substance Abuse Research and Evaluation": null,
+  "Iowa Public Television": {
+    "lat": 41.6640491,
+    "lon": -93.7081661
+  },
+  "Siouxland Cares": null,
+  "Northwest Iowa Community College": {
+    "lat": 43.1828172,
+    "lon": -95.8773327
+  },
+  "O'Brien County": {
+    "lat": 43.0755779,
+    "lon": -95.6277063
+  },
+  "Osceola County": {
+    "lat": 43.3684613,
+    "lon": -95.6299944
+  },
+  "Iowa Department of Workforce Development": null,
+  "MATURA Action Corporation": null,
+  "Iowa Department on Aging": null,
+  "Northwest Iowa Project Lifesaver": null,
+  "Iowa Division of Soil Conservation and Water Quality": null,
+  "Pathfinders Resource Conservation and Development": null,
+  "Iowa Finance Authority": null,
+  "Bankers Trust Company": null,
+  "Administrator": null,
+  "Iowa Governor's Developmental Disabilities Council": null,
+  "Iowa Health Des Moines": {
+    "lat": 41.5197327,
+    "lon": -93.6236564
+  },
+  "Iowa Heartland Resource Conservation and Development": null,
+  "Southgate Development Company, Inc.": null,
+  "TC, LLC": {
+    "lat": 40.9846752,
+    "lon": -92.4108619
+  },
+  "State Historical Society of Iowa": null,
+  "CBM Food Service": null,
+  "Central Iowa Water Association": {
+    "lat": 42.7128959,
+    "lon": -92.5074737
+  },
+  "Great River Bend Services, Inc.": null,
+  "Red Rock Area Community Action Program": null,
+  "Iowa Lottery Authority": null,
+  "Iowa Medical and Classification Center": {
+    "lat": 41.7143016,
+    "lon": -91.6108899
+  },
+  "Iowa Native Seed Growers Association": null,
+  "Iowa Public Power Agency": null,
+  "Iowa Public School Districts": null,
+  "Iowa Public School Insurance Program": null,
+  "Iowa Select Farms": {
+    "lat": 41.0227525,
+    "lon": -93.8074028
+  },
+  "Iowa State Fair Authority": null,
+  "Iowa Tobacco Settlement Authority": null,
+  "Iowa Township (Iowa County)": {
+    "lat": 42.0560012,
+    "lon": -92.8970154
+  },
+  "McFarland Clinic": {
+    "lat": 42.0336742,
+    "lon": -93.6120449
+  },
+  "Montezuma Community School District": null,
+  "Orpheum Centre of Marshalltown, Inc.": null,
+  "Region 6 Planning Commission": null,
+  "Iowa Veterans Home": {
+    "lat": 42.0561136,
+    "lon": -92.933241
+  },
+  "Iowa Vocational Rehabilitation": {
+    "lat": 41.0732937,
+    "lon": -94.3776702
+  },
+  "Northwest Iowa Planning and Development Commission": null,
+  "Region XII Council of Governments": null,
+  "Southeastern Community College": {
+    "lat": 40.8153986,
+    "lon": -91.180509
+  },
+  "Ireton City": null,
+  "Hawarden City": {
+    "lat": 43.0013108,
+    "lon": -96.486575
+  },
+  "Ivan and Caroline Wilson Memorial Trust": null,
+  "Cascade Community Fire Truck Association": null,
+  "Maquoketa City": {
+    "lat": 42.0674187,
+    "lon": -90.6638927
+  },
+  "Miles City": {
+    "lat": 42.4875732,
+    "lon": -96.3747369
+  },
+  "Spragueville City": null,
+  "Springbrook City": {
+    "lat": 42.5443762,
+    "lon": -96.4580177
+  },
+  "Zwingle City": null,
+  "Jamaica City": {
+    "lat": 41.8461252,
+    "lon": -94.308233
+  },
+  "Mingo City": {
+    "lat": 41.7672103,
+    "lon": -93.2835392
+  },
+  "Shekar Properties, LLC": null,
+  "Skiff Medical Center": {
+    "lat": 41.7036851,
+    "lon": -93.0516132
+  },
+  "Packwood City": null,
+  "Jesup City": {
+    "lat": 42.475543,
+    "lon": -92.0632329
+  },
+  "Oxford City": {
+    "lat": 41.7234483,
+    "lon": -91.7904235
+  },
+  "Salt Creek Township (Tama County)": {
+    "lat": 41.9024143,
+    "lon": -92.3568501
+  },
+  "Solon City": {
+    "lat": 41.8074661,
+    "lon": -91.4955159
+  },
+  "Johnson County Council of Governments": null,
+  "Iowa Secretary of State": null,
+  "Johnston City": {
+    "lat": 41.6742585,
+    "lon": -93.6952821
+  },
+  "Firm": {
+    "lat": 41.5838533,
+    "lon": -93.657964
+  },
+  "Apple Tree Children's Center": {
+    "lat": 41.5850679,
+    "lon": -93.7881896
+  },
+  "Westside Early Education": null,
+  "Martelle City": null,
+  "Juvenile Court Services (Iowa Department of Human Services)": null,
+  "K.C. Real Estate, LC": null,
+  "Kalona City": {
+    "lat": 41.4838754,
+    "lon": -91.6980909
+  },
+  "Kelley City": {
+    "lat": 41.9517267,
+    "lon": -93.6672707
+  },
+  "Kellogg City": {
+    "lat": 42.5117429,
+    "lon": -96.4619476
+  },
+  "Keokuk City": {
+    "lat": 40.3961013,
+    "lon": -91.3832064
+  },
+  "Sigourney City": {
+    "lat": 41.3338779,
+    "lon": -92.2055507
+  },
+  "Keomah Village City": null,
+  "Keosauqua City": {
+    "lat": 40.7306448,
+    "lon": -91.9620509
+  },
+  "Keosauqua Fire Department": {
+    "lat": 40.7305887,
+    "lon": -91.9606854
+  },
+  "Keota City": {
+    "lat": 41.3640564,
+    "lon": -91.9514211
+  },
+  "Keswick City": {
+    "lat": 41.4536195,
+    "lon": -92.2396262
+  },
+  "Kid's Spot - Lake City Day Care, Inc.": null,
+  "Kimballton City": {
+    "lat": 41.6292677,
+    "lon": -95.0712791
+  },
+  "Klemme City": null,
+  "Knoxville City": null,
+  "Bancroft City": {
+    "lat": 43.2931712,
+    "lon": -94.2176045
+  },
+  "Fenton City": {
+    "lat": 43.2150423,
+    "lon": -94.4280322
+  },
+  "Lakota City": {
+    "lat": 43.3774929,
+    "lon": -94.0930354
+  },
+  "North Iowa Mercy Health Center": null,
+  "Swea City": {
+    "lat": 43.3847857,
+    "lon": -94.3096682
+  },
+  "Titonka City": {
+    "lat": 43.2403124,
+    "lon": -94.0397046
+  },
+  "Whittemore City": {
+    "lat": 43.0637342,
+    "lon": -94.421872
+  },
+  "Ladas & Parry": null,
+  "Lake City": {
+    "lat": 42.2674367,
+    "lon": -94.7336988
+  },
+  "Lake Mills Community School District": null,
+  "Lake Panorama Rural Improvement Zone": null,
+  "Lakeside City": {
+    "lat": 43.1899231,
+    "lon": -90.3185725
+  },
+  "Lambs Grove City": null,
+  "Landfill of North Iowa": null,
+  "Landmark Depot Preservation, Inc.": null,
+  "Larchwood City": null,
+  "Larchwood Economic Development Corporation, Inc.": null,
+  "Larchwood Emergency Medical Services, Inc.": null,
+  "Laurel City": {
+    "lat": 41.8833263,
+    "lon": -92.9219043
+  },
+  "Lawler City": {
+    "lat": 43.073984,
+    "lon": -92.6712695
+  },
+  "Lawton City": null,
+  "LeGrand City": null,
+  "Ledyard City": null,
+  "Lenox City": {
+    "lat": 40.8803227,
+    "lon": -94.559253
+  },
+  "Leon City": {
+    "lat": 40.7398233,
+    "lon": -93.7474689
+  },
+  "Lincoln City": {
+    "lat": 42.4390318,
+    "lon": -96.362069
+  },
+  "Linden City": {
+    "lat": 41.642747,
+    "lon": -94.269473
+  },
+  "North Central Iowa Regional Solid Waste Agency": null,
+  "Goodwill Industries": null,
+  "Norwalk City": {
+    "lat": 41.4762415,
+    "lon": -93.6771066
+  },
+  "Linn County Radio Governance Board": null,
+  "Linn Grove City": null,
+  "Linn-Mar Community School District": null,
+  "Junior Achievement of Eastern Iowa, Inc.": null,
+  "Lisbon City": {
+    "lat": 41.9191414,
+    "lon": -91.3811509
+  },
+  "Mount Union City": {
+    "lat": 43.438637,
+    "lon": -91.4234972
+  },
+  "Liscomb City": {
+    "lat": 42.1911188,
+    "lon": -93.004055
+  },
+  "Living Lands and Waters": null,
+  "Lockridge City": {
+    "lat": 40.7449307,
+    "lon": -93.1527988
+  },
+  "Logan High School": null,
+  "Lone Rock City": {
+    "lat": 43.2206728,
+    "lon": -94.3247776
+  },
+  "Louisa Regional Solid Waste Agency": null,
+  "LuVerne Fire Department": null,
+  "Lucas City": {
+    "lat": 41.0286102,
+    "lon": -93.4607683
+  },
+  "Keota First Responders": null,
+  "Luther City": {
+    "lat": 41.9671505,
+    "lon": -93.8167594
+  },
+  "Lutheran Church of Hope": {
+    "lat": 41.5816805,
+    "lon": -93.8076106
+  },
+  "Luxemburg City": {
+    "lat": 42.6064962,
+    "lon": -91.0712667
+  },
+  "Lynnville City": {
+    "lat": 41.5791632,
+    "lon": -92.7826928
+  },
+  "Lynnville-Sully Community School District": null,
+  "Sully City": {
+    "lat": 41.5786016,
+    "lon": -92.8474933
+  },
+  "Lyons Township (Mills County)": null,
+  "Pacific Junction City": null,
+  "Lytton Betterment Committee": null,
+  "Orange City": {
+    "lat": 43.0072424,
+    "lon": -96.0583138
+  },
+  "Macedonia City": {
+    "lat": 41.1924036,
+    "lon": -95.4295304
+  },
+  "Winterset City": {
+    "lat": 41.3258444,
+    "lon": -94.0060558
+  },
+  "Madrid City": {
+    "lat": 41.7899417,
+    "lon": -93.7327782
+  },
+  "Magnolia City": {
+    "lat": 41.6953299,
+    "lon": -95.8749367
+  },
+  "Maharishi Vedic City": {
+    "lat": 41.0541046,
+    "lon": -92.0067251
+  },
+  "HyVee": {
+    "lat": 40.4147628,
+    "lon": -91.4025481
+  },
+  "Ottumwa City": {
+    "lat": 41.0189051,
+    "lon": -92.4106275
+  },
+  "U.S. West Communication": null,
+  "Malcom City": {
+    "lat": 41.7069414,
+    "lon": -92.5557426
+  },
+  "Mallard City": {
+    "lat": 42.9363548,
+    "lon": -94.6831821
+  },
+  "Malvern City": {
+    "lat": 41.00503,
+    "lon": -95.5846106
+  },
+  "Malvern Community School District": null,
+  "Manson City": {
+    "lat": 42.5294943,
+    "lon": -94.5328127
+  },
+  "Manson Greater Crater Days Committee": null,
+  "Mapleton Communications Management Agency": null,
+  "Long Lines, Ltd.": null,
+  "Maquoketa River Watershed Management Authority": null,
+  "Marathon City": {
+    "lat": 42.8616091,
+    "lon": -94.982302
+  },
+  "Marcus-Meriden-Cleghorn Community School District": {
+    "lat": 42.8178698,
+    "lon": -95.8019581
+  },
+  "Marion City and Cedar Rapids City": null,
+  "Marysville City": null,
+  "Monroe City": {
+    "lat": 41.5170108,
+    "lon": -93.1045841
+  },
+  "Pella City": {
+    "lat": 41.4075075,
+    "lon": -92.9186676
+  },
+  "Pleasantville City": {
+    "lat": 41.3874929,
+    "lon": -93.26993
+  },
+  "South Central Iowa Solid Waste Agency": null,
+  "Marne City": {
+    "lat": 41.4488229,
+    "lon": -95.1110809
+  },
+  "Mcgregor City": {
+    "lat": 43.0219614,
+    "lon": -91.1788151
+  },
+  "Marshalltown Central Business District": null,
+  "Marshalltown Municipal Band, Inc.": null,
+  "Mid-Iowa Community Action": {
+    "lat": 42.0080326,
+    "lon": -93.607622
+  },
+  "Region 6 Peoplerides": null,
+  "Young Men's Christian Association (YMCA)": null,
+  "Martensdale City": {
+    "lat": 41.3736148,
+    "lon": -93.739026
+  },
+  "Martinsburg City": null,
+  "Mason City Chamber of Commerce": null,
+  "Rock Island Emergency Telephone System Board": null,
+  "Masonville City": {
+    "lat": 42.4794208,
+    "lon": -91.5890783
+  },
+  "Massena Historical Society": null,
+  "Matlock City": null,
+  "Maurice City": null,
+  "Maxwell City": {
+    "lat": 41.8871037,
+    "lon": -93.4021212
+  },
+  "Maynard City": {
+    "lat": 42.7788127,
+    "lon": -91.8796714
+  },
+  "Mccallsburg City": null,
+  "Mcclelland City": null,
+  "Mediapolis City": null,
+  "Northern Des Moines County Rural Fire District": null,
+  "Mediapolis Community School District": null,
+  "Melrose City": {
+    "lat": 41.6549931,
+    "lon": -91.547437
+  },
+  "Menlo City": null,
+  "Mercer Township (Adams County)": null,
+  "Meriden City": null,
+  "Meservey City": null,
+  "Mid-American Energy Company": null,
+  "Mid-Iowa Drug Task Force": null,
+  "Middletown City": null,
+  "Midway Water and Lighting": null,
+  "Soil and Water Conservation District": null,
+  "Milton City": null,
+  "Minden City": null,
+  "Missouri Valley Community School District": null,
+  "Mitchell City": null,
+  "Riceville Ambulance Service, Inc.": null,
+  "Mitchellville City": null,
+  "Mondamin City": {
+    "lat": 41.7118803,
+    "lon": -96.0212714
+  },
+  "Blencoe City": null,
+  "Moorhead City": {
+    "lat": 41.9216549,
+    "lon": -95.8511197
+  },
+  "Turin City": {
+    "lat": 42.0199628,
+    "lon": -95.9635507
+  },
+  "Bradley J. Skinner, PE & PLS": null,
+  "Waubonsie Mental Health Center": {
+    "lat": 40.7303828,
+    "lon": -95.0398707
+  },
+  "Montgomery County Public Safety Communications Commission": null,
+  "Montour City": null,
+  "Montrose City": {
+    "lat": 40.5315266,
+    "lon": -91.4158083
+  },
+  "Moorland City": {
+    "lat": 42.4405439,
+    "lon": -94.2969249
+  },
+  "Moravia Community School District": null,
+  "Albia Community School District": null,
+  "Morley City": {
+    "lat": 42.0065833,
+    "lon": -91.2480863
+  },
+  "Morrison City": {
+    "lat": 42.5243607,
+    "lon": -96.4115277
+  },
+  "Mid-Iowa Subway": null,
+  "Mount Pleasant Community School District": null,
+  "Natel": null,
+  "Mount Vernon Community School District": {
+    "lat": 41.9205276,
+    "lon": -91.4283488
+  },
+  "Moville City": null,
+  "Sergeant Bluff City": null,
+  "Murray City": null,
+  "Narcotics Task Force Agencies in Southeast Iowa": null,
+  "Nashua-Plainfield Community School District": null,
+  "Nebraska Department of Education": null,
+  "State of Iowa": null,
+  "Neola City": null,
+  "Nevada City": null,
+  "Anstoetter Construction Company": null,
+  "New Albany Township (Story County)": {
+    "lat": 41.9921954,
+    "lon": -93.2896415
+  },
+  "New Hope Village": null,
+  "Lorimor City": {
+    "lat": 41.1260224,
+    "lon": -94.0634459
+  },
+  "New Market Community School District": null,
+  "New Sharon Child Care and Preschool": null,
+  "North Mahaska Community School District": null,
+  "New Sharon Fire Department": null,
+  "New Wine Township (Dubuque County)": {
+    "lat": 42.5165966,
+    "lon": -91.0749702
+  },
+  "Newell-Fonda Community School District": null,
+  "Thompson City": {
+    "lat": 42.4972467,
+    "lon": -96.3795275
+  },
+  "Newton National Guard Armory": null,
+  "Nora Springs City": {
+    "lat": 43.1449766,
+    "lon": -93.007511
+  },
+  "North Iowa Community School District": null,
+  "North Iowa Regional Housing Authority": null,
+  "North Kossuth Community School District": null,
+  "North Linn Community School District": null,
+  "North Polk Community School District": {
+    "lat": 41.816005,
+    "lon": -93.6141246
+  },
+  "North Shore Boat Club": null,
+  "Northboro City": null,
+  "Solon Tri-Township Emergency Response Agency": null,
+  "Northwest Area Education Agency": null,
+  "Northwood-Kensett Community School District": null,
+  "St. Ansgar Community School District": null,
+  "Norwalk Community School District": null,
+  "Little Sioux City": {
+    "lat": 42.4788352,
+    "lon": -96.3782369
+  },
+  "Oak Township (Iowa County)": null,
+  "Oakland City": null,
+  "Odebolt-Arthur Community School District": null,
+  "Ida Grove Community School District": null,
+  "Oelwein City": null,
+  "Ogden City": null,
+  "Ogden Community School District": null,
+  "Olds City": null,
+  "Ollie City": null,
+  "Omaha Tribe of Nebraska": null,
+  "Onslow City": null,
+  "Opportunity Living": null,
+  "Orient City": null,
+  "Osage City": null,
+  "Cedar River Recreation and Fine Arts Complex": null,
+  "Electronic Engineering Company": null,
+  "Osceola Public Library Foundation": null,
+  "Oskaloosa Community School District": null,
+  "Ossian City": null,
+  "Calmar City": null,
+  "Oto City": {
+    "lat": 42.286831,
+    "lon": -95.8940578
+  },
+  "Otter Creek Township (Tama County)": {
+    "lat": 41.9926725,
+    "lon": -92.4743762
+  },
+  "Ottumwa Progress, Inc.": null,
+  "Ottumwa Community School District": null,
+  "Our House Child Development Center": null,
+  "Shenandoah Community School District": null,
+  "PARTICIPANT": null,
+  "PCM Community School District": null,
+  "Panorama Community School District": null,
+  "Panorama Park City": null,
+  "Participant": null,
+  "Patient": null,
+  "Paton City": null,
+  "Patterson City": null,
+  "Paullina City": {
+    "lat": 42.9815917,
+    "lon": -95.6857359
+  },
+  "Pella Community School District": null,
+  "Persia City": null,
+  "Pierce Township (Page County)": null,
+  "Pierson City": null,
+  "Plainfield City": {
+    "lat": 42.8466447,
+    "lon": -92.5371298
+  },
+  "Plattville Township (Mills County)": null,
+  "Pleasant Grove Township (Mahaska County)": null,
+  "Pleasant Township (Hardin County)": {
+    "lat": 42.3407828,
+    "lon": -93.1750755
+  },
+  "Pleasant Valley Township (Scott County)": {
+    "lat": 41.5694244,
+    "lon": -90.4226015
+  },
+  "Pleasantville Community School District": {
+    "lat": 41.3889334,
+    "lon": -93.274463
+  },
+  "Plymouth City": {
+    "lat": 43.2457962,
+    "lon": -93.1224257
+  },
+  "Pocahontas Area Community School District": null,
+  "Pocahontas Community Foundation": null,
+  "Pocahontas City": {
+    "lat": 42.7324743,
+    "lon": -94.6697023
+  },
+  "Pocahontas County Soil and Water Conservation District": null,
+  "Palmer City": {
+    "lat": 41.6347326,
+    "lon": -91.5110198
+  },
+  "Erica Thorson": null,
+  "Iowa Comprehensive Human Services": null,
+  "Iowa Department of Transportation, District 1": {
+    "lat": 42.0197469,
+    "lon": -93.622168
+  },
+  "Paragon Best, LLC": null,
+  "Slater City": {
+    "lat": 41.6586459,
+    "lon": -91.5510866
+  },
+  "Pomeroy City": {
+    "lat": 42.550533,
+    "lon": -94.6849799
+  },
+  "Pomeroy Historical Society": null,
+  "Pomeroy Men's Club": null,
+  "Prairie City": null,
+  "Prairieburg City": null,
+  "Prescott City": null,
+  "Preston Community Ambulance Service": null,
+  "Preston Community School District": null,
+  "Primghar City": null,
+  "Siouxland Economic Development Corporation": null,
+  "Quasqueton City": null,
+  "Rabiners Treatment Center": null,
+  "Radcliffe City": null,
+  "Rawles Township (Mills County)": null,
+  "Raymond City": null,
+  "Reasnor City": null,
+  "Red Oak Rural Fire Protection Association": null,
+  "Red Oak Township (Cedar County)": null,
+  "Region XII Regional Housing Authority": null,
+  "Regional Housing Authority": null,
+  "Reinbeck City": null,
+  "Requesting Entity": null,
+  "Providing Entity": null,
+  "Rhodes City": null,
+  "Melbourne City": null,
+  "Riceville City": null,
+  "Riceville Community School District": null,
+  "Richland City": null,
+  "Rickardsville City": null,
+  "Rippey City": null,
+  "Riverdale City": null,
+  "Riverside City": null,
+  "Riverton City": null,
+  "Robins City": null,
+  "Rockford City": null,
+  "Rockwell City Community School Booster Club": null,
+  "Rockwell City Congregate Meals": null,
+  "Rodman City": {
+    "lat": 43.0284596,
+    "lon": -94.5309779
+  },
+  "Roland City": null,
+  "Innovative Industries": null,
+  "Rome City": null,
+  "Rowley City": null,
+  "Rudd City": null,
+  "Rudd-Rockford-Marble Rock Community School District": null,
+  "Runnells City": {
+    "lat": 41.510268,
+    "lon": -93.3579874
+  },
+  "Ruthven City": null,
+  "Rutland City": null,
+  "Ryan City": {
+    "lat": 41.6664217,
+    "lon": -91.6001503
+  },
+  "Sac Community School District": null,
+  "Sac and Fox Tribes": null,
+  "Salix City": {
+    "lat": 42.3075451,
+    "lon": -96.2876051
+  },
+  "Saydel Community School District": null,
+  "Saylor Township Fire Department": {
+    "lat": 41.6588895,
+    "lon": -93.6210556
+  },
+  "Schleswig Community School District": null,
+  "Scotch Grove Township (Jones County)": null,
+  "McDonough County, Illinois": null,
+  "Tazewell County, Illinois": null,
+  "Whiteside County, Illinois": null,
+  "Scranton City": null,
+  "Searsboro City": null,
+  "Sentral Community School District": null,
+  "Sergeant Bluff-Luton Community School District": {
+    "lat": 42.3950823,
+    "lon": -96.3531487
+  },
+  "Lawton-Bronson Community School District": null,
+  "Seymour Community School District": null,
+  "Seymour City": {
+    "lat": 40.6693988,
+    "lon": -93.1233303
+  },
+  "Shambaugh City": {
+    "lat": 41.6667075,
+    "lon": -91.5342018
+  },
+  "Sharon Township (Appanoose County)": null,
+  "Shattering Silence, Inc.": null,
+  "Sheldahl City": {
+    "lat": 41.8630424,
+    "lon": -93.6946656
+  },
+  "Sheldon City": {
+    "lat": 43.1848263,
+    "lon": -95.85032
+  },
+  "Sheldon Community School District": null,
+  "Sherrill City": {
+    "lat": 42.6056913,
+    "lon": -90.7866778
+  },
+  "Shores of 5 Island Lake Homeowner Association": null,
+  "Shueyville City": null,
+  "Jefferson Monroe Fire Department, Inc.": null,
+  "Sibley City": null,
+  "Osceola City": null,
+  "Sidney City": null,
+  "Sidney Community School District": null,
+  "Sigourney Community School District": null,
+  "Cardinal Community School District": null,
+  "Simpson College": null,
+  "Main Street Sioux City Corporation": null,
+  "Sioux City Chamber of Commerce": null,
+  "Sioux City Community School District": {
+    "lat": 42.4944337,
+    "lon": -96.4024755
+  },
+  "Sioux City Conference Board": null,
+  "Siouxland Initiative": null,
+  "Sioux Rivers Regional Mental Health and Disability Services": null,
+  "Sloan City": null,
+  "Smithland City": null,
+  "Solon Community School District": null,
+  "South Central Iowa Regional E-911 Service Board": null,
+  "South English City": null,
+  "South Iowa Municipal Electric Cooperative Association": null,
+  "South Page Community School District": null,
+  "South Panorama Sanitary District": null,
+  "South Tama County Community School District": null,
+  "EduCare Learning Centers, Inc.": null,
+  "Southeast Iowa Regional Airport Authority": null,
+  "Southeast Iowa Regional Housing Authority": null,
+  "Southeast Iowa Regional Planning Commission": null,
+  "Ottumwa Regional Health Center": null,
+  "Southeast Polk Community School District": null,
+  "Southeast Webster Community School District": null,
+  "Southern Hills Regional Mental Health": null,
+  "Sun Valley Sewer District": null,
+  "Southwest Iowa Mental Health and Disability Service Region": null,
+  "Spencer Community School District": null,
+  "Spring Creek Township (Iowa County)": null,
+  "Spring Hill City": null,
+  "Springdale Township (Cedar County)": null,
+  "Springville City": null,
+  "Grafton City": null,
+  "Stacyville City": null,
+  "St. John Township (Harrison County)": null,
+  "St. Patrick School": null,
+  "Stanton City": null,
+  "Stanwood City": {
+    "lat": 41.8936933,
+    "lon": -91.1470688
+  },
+  "Biggsville Fire Protection District": null,
+  "Steamboat Rock City": {
+    "lat": 42.4081727,
+    "lon": -93.0728158
+  },
+  "Stockport City": {
+    "lat": 40.8564154,
+    "lon": -91.8332242
+  },
+  "Storm Lake Area Development Corporation": null,
+  "Witter Gallery Guild": null,
+  "Storm Lake Youth Baseball Association": null,
+  "Story City": {
+    "lat": 42.1872062,
+    "lon": -93.5957713
+  },
+  "Stout City": {
+    "lat": 42.52613,
+    "lon": -92.7116511
+  },
+  "Stratford City": {
+    "lat": 42.2705719,
+    "lon": -93.9266353
+  },
+  "Stubbs Development, Inc.": null,
+  "Substance Abuse Treatment Unit of Central Iowa": null,
+  "Sugar Creek Township (Poweshiek County)": {
+    "lat": 41.5543255,
+    "lon": -92.6995567
+  },
+  "Sugar Grove Township (Dallas County)": {
+    "lat": 41.7255026,
+    "lon": -93.989504
+  },
+  "Sumner City": {
+    "lat": 42.843323,
+    "lon": -92.088037
+  },
+  "Sumner Emergency Medical Services": null,
+  "Sumner-Fredericksburg Community School District": null,
+  "Sunnyview Independent Living": null,
+  "Sunshine and Smiles Day Care": null,
+  "Sutherland City": null,
+  "Swaledale City": null,
+  "Swan City": null,
+  "Swisher City": null,
+  "Table Mound Township (Dubuque County)": null,
+  "Tabor City": null,
+  "Tama City": null,
+  "Tama Soil and Water Conservation District": null,
+  "Tarkio Township (Page County)": null,
+  "Villisca City": null,
+  "Tennant City": null,
+  "Texas Credit Union Department": null,
+  "Thomas Jefferson High School": null,
+  "Tiffin Fire Department": null,
+  "Tipton City": null,
+  "Top Rail Saddle Club": null,
+  "Toronto Fire Department": null,
+  "Town of Lehigh, Iowa": null,
+  "Traer City": null,
+  "Treynor City": null,
+  "Treynor Community School District": null,
+  "Tri-Center Community School District": null,
+  "Tri-County Community School District": null,
+  "Tripoli Community School District": null,
+  "A-Z Preschool": null,
+  "Tripoli-Readlyn Sanitation Agency": null,
+  "Truesdale City": null,
+  "Twin Lakes Christian Center": null,
+  "Twin Lakes Trail Organization": null,
+  "U.S. Federal Government": null,
+  "U.S. Submarine Veterans, Iowa Base, Placoderm Base": null,
+  "Underwood Community School District": null,
+  "Union City": {
+    "lat": 43.464373,
+    "lon": -91.4316045
+  },
+  "United Community School District": null,
+  "University Park City": null,
+  "St. Pius X School": null,
+  "Discoveries Pre-School": null,
+  "Valley Preschool, Inc.": null,
+  "Van Horne Fire Department": null,
+  "Van Meter Community School District": null,
+  "Ventura City": null,
+  "Victor City": null,
+  "Vienna Township (Marshall County)": null,
+  "Wadena City": {
+    "lat": 42.8407325,
+    "lon": -91.6561974
+  },
+  "Walford City": {
+    "lat": 41.8790356,
+    "lon": -91.8352078
+  },
+  "Wall Lake City": {
+    "lat": 42.2708353,
+    "lon": -95.092988
+  },
+  "Wall Lake View Auburn Community School District": null,
+  "Walnut City": {
+    "lat": 40.8123428,
+    "lon": -92.9449561
+  },
+  "Kirkville City": {
+    "lat": 41.1457777,
+    "lon": -92.5037631
+  },
+  "Washington City": {
+    "lat": 41.6600004,
+    "lon": -91.5303643
+  },
+  "Washington and Sumner Townships (Buchanan County)": null,
+  "Washington and Van Buren Townships (Jackson County)": null,
+  "Southeast Iowa Link Region": null,
+  "Ottumwa Transit Authority": null,
+  "Waterville City": null,
+  "Waucoma City": null,
+  "YMCA of Greater Des Moines": null,
+  "Waukee Community School District": {
+    "lat": 41.6030736,
+    "lon": -93.8635752
+  },
+  "Vision Soccer Academy of Waukee": null,
+  "Waverly City": {
+    "lat": 42.7272114,
+    "lon": -92.4694714
+  },
+  "Waverly Light & Power": null,
+  "Waco Community School District": null,
+  "Foundation for Educational Excellence": null,
+  "Badger Fire Department": {
+    "lat": 42.6151797,
+    "lon": -94.1456816
+  },
+  "Clare City": null,
+  "Harcourt City": null,
+  "Weldon City": null,
+  "Wellman City": null,
+  "Wellsburg City": null,
+  "Wesley City": null,
+  "West Akron Fire District": null,
+  "West Branch Community School District": null,
+  "West Cedar Township (Floyd County)": null,
+  "West Central Community School District": null,
+  "Bradford Child Care Services (Apple Tree Children's Center)": null,
+  "Olivet Christian Preschool": null,
+  "Sacred Heart Preschool": null,
+  "St. Timothy's Preschool": null,
+  "West Des Moines United Methodist Church Preschool": null,
+  "West Des Moines Historical Society": null,
+  "West Hancock Community School District": null,
+  "West Harrison Community School District": null,
+  "Furry Friends Refuge": null,
+  "Metro Waste Authority": null,
+  "Milford City": {
+    "lat": 43.3236355,
+    "lon": -95.1509862
+  },
+  "White Oak Township (Mahaska County)": null,
+  "Whitewater Township (Dubuque County)": {
+    "lat": 42.3386278,
+    "lon": -90.9561676
+  },
+  "Whiting City": {
+    "lat": 42.1256669,
+    "lon": -96.1533928
+  },
+  "Whiting Community School District": null,
+  "Westwood Community School District": null,
+  "Willow Township (Monona County)": {
+    "lat": 42.0354508,
+    "lon": -95.6717706
+  },
+  "Dunlap City": {
+    "lat": 41.8540498,
+    "lon": -95.5996033
+  },
+  "Wilton City": {
+    "lat": 41.5886376,
+    "lon": -91.0163031
+  },
+  "Third party contractor": null,
+  "third party contractor": null,
+  "Winn-Worth Betco": null,
+  "Frankville Emergency Volunteer Association": null,
+  "Winthrop City": null,
+  "Wiota City": null,
+  "Woden City": null,
+  "Wonder Spelen": null,
+  "Woodbine Community School District": null,
+  "Woodbury Central Community School District": null,
+  "Woodward City": {
+    "lat": 41.8577633,
+    "lon": -93.92134
+  },
+  "Woodward Community Fire Department": null,
+  "Workforce Development in Region 8": null,
+  "Works and Electric Light and Power Plant Trustees of Atlantic, Iowa": null,
+  "Belmond Community Hospital": null,
+  "Franklin General Hospital": {
+    "lat": 42.7431112,
+    "lon": -93.1859288
+  },
+  "Iowa Specialty Hospital": {
+    "lat": 42.8452159,
+    "lon": -93.6125389
+  },
+  "Wyoming City": {
+    "lat": 42.0587201,
+    "lon": -91.0065909
+  },
+  "Midland Ambulance Association": null,
+  "Yale City": {
+    "lat": 41.7754072,
+    "lon": -94.3545766
+  },
+  "York Township (Iowa County)": {
+    "lat": 41.6403191,
+    "lon": -91.8915118
+  },
+  "Zearing City": null
+}

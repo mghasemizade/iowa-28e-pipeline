@@ -1,0 +1,17 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data (raw PDFs and large intermediate files not tracked — see Data Availability)
+data/raw_pdfs/*.pdf
+data/ocr_output/*.txt
+*.gt
+
+# OS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/

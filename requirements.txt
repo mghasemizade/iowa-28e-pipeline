@@ -1,0 +1,41 @@
+# Core
+pandas
+numpy
+scikit-learn
+
+# Networks
+networkx
+graph-tool          # TODO: pin exact version used in paper (install via conda-forge, not pip)
+
+# Entity disambiguation
+rapidfuzz
+
+# Geo (for geographic clustering / county-level figures)
+geopandas
+pyproj
+shapely
+geopy                # Nominatim geocoding for agency -> county lookup (Stage A.9)
+
+# Plotting
+matplotlib
+seaborn
+adjustText
+
+# LLM API clients — TODO: pin exact versions matching paper's access dates
+openai
+google-genai            # NOT google-generativeai — llm_clients.py uses the new unified SDK (`from google import genai; genai.Client()`)
+
+# OCR
+# surya-ocr==0.6.3
+evaluate               # CER validation (evaluate.load("cer"))
+jiwer                  # backend for evaluate's cer metric
+
+python-dotenv
+tqdm
+
+# Stage A.5 embedding generation (generate_embeddings.py) — only needed to
+# regenerate data/labeled/embeddings/*.npy, not to run the pipeline against
+# the published files
+tiktoken                # gpt embedding chunking
+transformers             # llama embedding generation (local HF model, e.g. meta-llama/Llama-3.1-70B)
+torch                    # backend for transformers; install a CUDA build for feasible 70B inference

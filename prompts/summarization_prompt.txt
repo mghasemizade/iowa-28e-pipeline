@@ -1,0 +1,8 @@
+# Appendix A.3 — Contract Summarization Prompt
+# Used identically across LLaMA 3.1, GPT-5.2 Pro, and Gemini 3 Pro.
+# TODO: confirm this is verbatim; add model-specific system prompt if any.
+
+Summarize the following contract text in 3-5 sentences. Keep key entities,
+obligations, and the overall purpose.
+
+CONTRACT TEXT: [CONTRACT TEXT]
