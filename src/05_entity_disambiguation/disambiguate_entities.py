@@ -52,7 +52,7 @@ CANONICAL_MAP_PATH = Path("data/network/canonical_entity_map.json")
 VERIFICATION_PATH = Path("data/network/canonical_entity_verification.csv")
 OUTPUT_PATH = Path("data/network/extracted_financial_entities_canonical.csv")
 
-SIMILARITY_THRESHOLD = 95
+SIMILARITY_THRESHOLD = 87
 SCORER = fuzz.token_sort_ratio
 
 
