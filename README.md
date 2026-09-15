@@ -4,10 +4,7 @@ Computational pipeline for classifying Iowa 28E intergovernmental agreements by
 institutional form and extracting the financial relationships encoded in
 service contracts. Companion code for:
 
-> Ghasemizade, M., Gutiérrez-Meave, R., Gramling, C., Chawla, A., Robinette, M.,
-> Albrecht, K., & Lovato, J. *Making Local Government Contracts Legible: A
-> Computational Pipeline for Classifying and Mapping Intergovernmental Service
-> Agreements.* Government Information Quarterly (under review).
+
 
 Full replication details for every stage (exact model versions, access dates,
 prompts, thresholds) are documented in the paper's Supplementary Appendix.
